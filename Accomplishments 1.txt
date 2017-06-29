@@ -1,0 +1,33 @@
+- Worked as a member of an architecture team where a customized framework was designed on top of Microsoft's UserInterfaceProcess Application block
+
+- Customized framework was based on Model View Controller architectural pattern.
+
+- iOriginate is a mortgage intranet application that consists of nearly 210 Visual studio web and class library projects, that denote different workspaces(Screens) as well as Business Objects.
+   
+   Worked as a senior developer on several of these modules that included designing schema, entities and web page using AJAX.
+
+- iOriginate is also based on Service Oriented Architecture. It contains nearly 40 different webservices, and consumes data from several external services in order to retrieve daily Pricing, Credit info, Customer info, to underwrite and submit to fulfillment.
+   
+   Worked and designed solutions for several services. One of them was about applying automatic discount code(s) to the customer's mortgage quote based on the status of his/her account with BankOfAmerica. Criteria to apply discount-code depended on numerous factors e.g. Is bank employee, More than 100K in account, Has Investment account, Platinum customer etc.
+
+- There were sub-systems which were developed using ASP.NET MVC. 
+1. Admin System - To maintain user accounts, their credentials and access rights. Certain users could service only certain areas and certain loans.
+2. Config System - iOriginate was driven by innumerable configured entries. e.g. If a user is in certain branch-number(e.g. Retail), he/she would see features that are applicable to Retail. If the branch-num is changed for that user, the application would behave differently. 
+The config entries and its data were maintained through this web app.
+   
+- In December 2012, Bank decided to leverage IBM's Rule-Engine system for Pricing data retrieval in order to provide better customer experience. Since then, has been working closely with System Analysts and IBM counterparts on Pricing data-mapping to develop wrapper services to accommodate existing UI. Have been leading the development efforts. Pricing is the heart of the system since it is a mortgage application.
+
+- In the past, Successfully led monthly and integrated releases that contained moderate to elaborate changes. Worked closely with Build team and QA team on these efforts.
+
+- Investigated intricate production issues based on session logs and error descriptions provided by real-time users.
+
+
+
+
+
+
+I started as a developer in 2005. And, today I'm a lead for Pricing segment. 
+We're replacing our legacy Pricing systems with IBM services whose system is rules based. Or, based on Rule Engine.
+
+When I started the application was in development mode. And, It went live in 2008. So, It has been in production for 5 years. I have worked on development of several modules and web services. Have led many releases including monthly-independent and quarterly-integrated.
+As mentioned, currently leading pricing segment in integration with IBM services.

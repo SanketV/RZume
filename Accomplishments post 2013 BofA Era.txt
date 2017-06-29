@@ -1,0 +1,75 @@
+Accomplishments
+
+Experian [January 2017 to Present]
+	- Experian bought a company called Serasa in Brazil in 2015. 
+	  Worked on a project to migrate their CRM system into Experian's Salesforce production org.	
+	  Designed and developed solutions by working very closely with the business analysts to abide by the current system and to introduce new business logic and processes for Serasa.
+	- Successfully delivered the project with an addition of a new and modern service console with live-agent.
+
+	- Established a development process by following Salesforce recommendations and industry standards.
+	  Maintained coding standards and helped the team adhere to coding guidelines provided by Salesforce.
+	  Promoted separate dev org per developer philosophy of Salesforce.
+
+	- Created and maintained a source control using BitBucket.
+	  Maintained different code branches in different repositories.
+	  Performed code reviews and performed code-merge via pull-requests.
+
+	- Successfully led production releases for every other 3-weeks sprint cycle.
+
+Thompson Reuters [March 2016 to December 2016]
+
+	- Integrated SOAP services using Enterprise wsdl into their existing .NET application called Aumentum. It was a tax related application for counties all over the nation where they can generate tax documents for the properties in their counties along with numerous other operations. The application would also show their open and closed cases from CRM system with other details. They can also create new cases and CRM support agents will pick them up in Salesforce.
+		
+	-  Created a sample service console for Reuters' support team and worked with them to provide full implementation. It boosted their productivity and increased personalized experience for the customers.
+
+
+Jack Henry [December 2013 to February 2016]
+	- Designed a live-update console using Node.js and Socket.io for support agents
+		that provided updates and alerts from various systems.
+	- Hosted this application in Heroku and the data were retrieved from various REST APIs.
+	- REST APIs of Database.com(which is Force.com without the UI) were used to retrieve status of CRM system.
+	- Also, developed new REST APIs on Force.com/Database.com platform using APEX.
+	- For new customer service console, worked with expert business analysts and end-users and
+		designed it from scratch. Provided full implementation with live-agent successfully.
+			
+Bank Of America [October 2005 to November 2013]
+
+	- Worked as a member of an architecture team where a customized framework was designed on top of Microsoft's UserInterfaceProcess Application block using Model View Controller architectural pattern.
+	
+	- iOriginate is a mortgage intranet application that consisted of nearly 210 Visual studio web and class library projects, that denoted different workspaces(screens) as well as Business Objects.
+	   
+	- Worked as an architect and a senior developer on several of these modules that included designing schema, entities and web pages using AJAX and latest trends of the time.
+	
+	- iOriginate is also based on Service Oriented Architecture. It contains nearly 40 different webservices, and consumes data from several external services in order to retrieve daily Pricing, Credit info, Customer info, to underwrite and submit to fulfillment. Worked and designed solutions for several of these services. 
+
+	- One of the service was about applying automatic discount code(s) to the customer's mortgage quote based on the status of his/her account with BankOfAmerica. Criteria to apply discount-code depended on numerous factors e.g. Is bank employee, More than 100K in account, Has Investment account, Platinum customer etc.
+		
+	  Designed this very critical service from scratch to accommodate several business rules and designed it in such a way that it would be relatively easy for a non-technical person to change the rules on regular basis.
+	  For example, a user can go and add new discount code that offers new promotion from marketing department.
+	  It was critical because wrongly applied discount code could've caused loss of potentially millions of dollars.
+	  
+	  Maintained the ownership of this service throughout my tenure and got it passed by QA with zero bugs which was a considerable achievement at the time.
+		
+	- In August 2012, Bank decided to leverage IBM's Rule-Engine system for Pricing data retrieval in order to provide better customer experience. Worked closely with System Analysts and IBM counterparts on Pricing data-mapping to develop wrapper services to accommodate existing UI. Led the development efforts on pricing segment which was the heart of the system since it was a mortgage application.
+
+----------------------------------------------
+
+	- There were sub-systems which were developed using ASP.NET MVC. 
+	1. Admin System - To maintain user accounts, their credentials and access rights. Certain users could service only certain areas and certain loans.
+	2. Config System - iOriginate was driven by innumerable configured entries. e.g. If a user is in certain branch-number(e.g. Retail), he/she would see features that are applicable to Retail. If the branch-num is changed for that user, the application would behave differently. 
+	The config entries and its data were maintained through this web app.
+	
+***************************************************
+Visualforce and APEX
+
+- Developed numerous Visualforce pages using APEX controllers on several occasions when out-of-the-box UI does not satisfy the requirements.
+	
+	e.g. 
+		1. Display child records in a related list with certain filter conditions.
+		2. Display cross-object information from child records in related list.
+		3. Enable pagination on related list to improve performance to enable users to navigate potentially large number of records.
+		4. Display alert boxes on page using Javascript when user performs a certain action.
+	
+	Any legitimate reason to create a web page might apply to a Visualforce page if the requirement cannot be accomplished from out of the box Force.com UI features.
+		
+	   
