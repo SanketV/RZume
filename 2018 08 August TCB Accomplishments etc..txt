@@ -1,0 +1,17 @@
+
+- Led the effort of nCino Implementation
+   by working with nCino staff and a consulting firm's contractors.
+
+- Established Release Process for internal SFDC Releases
+
+- Established development process and code repositories by introducing AutoRabit
+
+- Implemented SMS service using Twilio apps and APIs.
+
+- Attended nCino nSight conference and Dreamforce 18.
+
+- Trained non-technical admins on how to use AutoRabit and on the release process. 
+  (Earlier they were making many manual changes in Production. Reduced it by 80%)
+
+
+
