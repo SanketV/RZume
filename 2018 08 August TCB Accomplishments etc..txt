@@ -2,6 +2,11 @@
 - Led the effort of nCino Implementation
    by working with nCino staff and a consulting firm's contractors.
 
+- nCino config data load
+	- Wrote data loader scripts to automate loading of 40 tables with config data.
+	- Before, a proprietary system was used which was manual which used to take 4 hours.
+		Reduced the time to 15 minutes.
+
 - Established Release Process for internal SFDC Releases
 
 - Established development process and code repositories by introducing AutoRabit
@@ -12,6 +17,3 @@
 
 - Trained non-technical admins on how to use AutoRabit and on the release process. 
   (Earlier they were making many manual changes in Production. Reduced it by 80%)
-
-
-
