@@ -17,3 +17,20 @@
 
 - Trained non-technical admins on how to use AutoRabit and on the release process. 
   (Earlier they were making many manual changes in Production. Reduced it by 80%)
+
+- ServiceNow Integration.
+- Twilio for SMS
+
+
+
+- Call center project 
+	Use Case of Morgan and Morgan [ForThePeople.com]
+	Three call centers.
+	Marketing Cloud
+	
+••••••••••••••••••••••••••••
+	Heroku app
+		- an app to copy data into sandboxes
+		- an app to log events into Apache Kafka
+	
+
