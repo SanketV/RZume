@@ -21,7 +21,8 @@
 - ServiceNow Integration.
 - Twilio for SMS
 
-
+- Evaluated products and led the buying process efforts with the vendors.
+  AutoRabit.
 
 - Call center project 
 	Use Case of Morgan and Morgan [ForThePeople.com]
