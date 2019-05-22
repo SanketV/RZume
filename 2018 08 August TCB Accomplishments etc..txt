@@ -50,4 +50,73 @@ Integration Through External Processes
 
 As an example, let's say your real estate company uploads photos for each house it lists for sale. These photos are huge, so you need a way to resize them to reduce loading times and storage costs. You can easily offload this job to an external process on Heroku. Each time a photo is uploaded to Salesforce, it is sent to an app on Heroku for processing, and the resized image is saved back into Salesforce. The app on Heroku that handles the external process could be responsible only for that one piece of the system. In that case, the app is likely considered a microservice that can be deployed separately without any other system dependencies.
 
+----------------------------
+• Technical Architect 
+
+• Technical Program Manager
+
+• Application Engineering Manager
+	https://careers.google.com/jobs/results/101101257189401286-application-engineering-manager-salesforce/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=salesforce&sort_by=relevance
+	As an Application Engineering Manager, you will organize and manage our Corporate Engineering SFDC technology stack. You will be responsible for the technical architecture, feature roadmap, best practices, and product innovation for the Center of Excellence (CoE). You will develop guidelines and best practices for teams to follow and deploy, assess technical fit of Salesforce as a solution for various use cases, and consult with teams with large implementations on leveraging Salesforce native capabilities and minimize custom code. You will also define platform wide architectural choices laying the common infrastructure for business teams to build their Salesforce solutions, including integration frameworks, data architecture, and security model.
+
+	Responsibilities
+Translate business needs into SFDC technology architecture and solution designs. Develop high-level timelines for execution.
+Be the custodian of instance strategy for the Center of Excellence managed instances and advise on release management processes and change management considerations.
+Work with development teams to ensure solution designs align with the overall architecture roadmap for the Center of Excellence and collaborate with the SFDC team to execute on areas of innovation and co-development of features.
+Work with Corporate Engineering stakeholders and SFDC users within the company to help share best practices around security, compliance, etc.
+Develop integration strategy for SFDC integration with other third-party and home-grown services and define overall architectural guidelines/standards for SFDC platform.
+
+
+• Technical Architect
+
+• CRM Technical Architect
+
+As a YouTube Customer Relationship Management (CRM) Tech Lead, you will drive the development of Salesforce (SFDC) platform used by YouTube operations teams, who are tasked with the objective of achieving greater creator happiness and success.
+
+Working closely with the platform team and SFDC user teams, you will help deliver great CRM value to our user group by using Salesforce and provide long-term solutions by leveraging the great features, functions and best-practices with Salesforce.
+
+You have excellent communication skills (written and oral) with demonstrated interpersonal and organizational abilities. You will be working in a constantly changing, fast-paced environment, so your flexibility is a necessity.
+	
+	Collaborate with Business and Operations teams to define, evaluate, prioritize, and improve CRM features and functionality.
+	Articulate design considerations, trade-offs, benefits, and recommendations for system design.
+	Deliver key new features using Salesforce technology, including workflow, process builder, Lightning Experience, APEX and Visualforce, etc.
+	Work closely with Engineering and Business Analytics teams to improve data flow.
+	Collaborate with internal teams to improve Salesforce integrations with internal systems.
+
+
+• Salesforce Project Manager  (Perficient)
+	https://careers-perficient.icims.com/jobs/7528/salesforce-project-manager/job?hub=7&mobile=false&width=1071&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300
+	role is intended to manage and adapt continuously to project goals. This highly collaborative role will need to work closely with all departments, including account, creative and technology teams, in order to deliver quality solutions to our customers. 
+	 
+	
+	Responsibilities
+	Create project timelines, and manage creative, development milestones and deliverables.
+	Foster an environment that adapts quickly to creative change and focuses on Agile development principles.
+	Maintain creative, production, and technical goals set forth by our teams and clients.
+	Manage overall project organization to ensure requirements and project deliverable dates can be clearly communicated to the product and account leads.
+	Capture and record meeting notes and ensure action items are completed promptly.
+	Ensure solutions to technical problems through discussion with technical teams to resolve problems.
+	Partner with development team members to understand opportunities and limitations of solutions being implemented.
+	Effectively balance the needs of the client, as well as the needs of the agency and internal teams.
+	Manage all deliverables with any required external vendors.
+	Provide production and technical knowledge, in addition to innovation insight, in order to arrive at the best-possible execution decisions.
+	Identify, procure and manage outside vendors that are best suited for assigned projects, when required.
+	Work closely with Scrum Master to track sprint progress against overall project timelines.
+	Manage resources for each assigned project to ensure that the project remains on schedule.
+	Work closely with the product and account leads to remain in full communication on the status and details of each project, including any cost or timing issues that may arise.
+	Anticipate any potential issues with the project through quick responses and proactive critical thinking.
+	Demonstrate skilled problem-solving capabilities to determine solutions and options to resolve problems.
+----------------------------------
+
+
+Google Tips
+
+Focus on your resume
+This is the first piece of information we’ll see about you, so highlight your achievements. Here’s how to frame them:
+
+	Align your skills and experience with the job description.
+	Be specific about projects you’ve worked on or managed. What was the outcome? How did you measure success?
+	If you've had a leadership role, tell us about it. How big was the team? What was the scope of your work?
+
+
 
