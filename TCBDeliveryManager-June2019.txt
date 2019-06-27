@@ -1,0 +1,68 @@
+Salesforce Solution Delivery Manager
+Job Location US-TX-Richardson Operations Center
+ID 2019-4036  Location: Address 2350 Lakeside Blvd  Category Information Technology
+Overview
+At Texas Capital Bank, we are driven by a single-minded and unwavering mission: to serve business and the individuals who run them. We use a consultative approach and innovative technologies to develop new ideas that give the bank and our clients a competitive advantage. We partner with our customers to push the boundaries of what’s possible—together.
+
+Headquartered in Dallas, Texas Capital Bank has offices in Austin, Fort Worth, Houston, Richardson, Plano and San Antonio, and we serve clients in a variety of industries from coast-to-coast.
+
+ 
+
+We are on the Forbes Best Banks in America list, and were named a top place to work by The Dallas Morning News, Houston Chronicle and San Antonio Express-News. For further information, please visit us at www.texascapitalbank.com.
+
+Responsibilities
+Provide delivery management, oversight, and team leadership for Salesforce enterprise wide.
+Deliver strategic, proactive guidance for key client stakeholders
+Conceive innovative, high value solutions for clients in areas of technology or process improvement
+Establish and maintains excellent business relationships with all key account stakeholders
+Serve as the initial and ongoing line of sight to resource constraints and commitments
+Identify risks and interdependencies and work to develop plausible solutions
+Manage ongoing business as usual (BAU) as well as project work
+Coordinate among cross functional teams for project implementations
+Consult in resource/skill and financial planning to assist in project management efforts
+Conduct proof of concept pilots to demonstrate potential solutions for business problems
+Help develop and drive organization adoption for strategic initiatives
+Drive key goals and metrics around productivity and growth goals as documented in investment roadmap
+Meet customer expectations for highest quality
+Participate in process/industry consortiums as necessary
+Assist with the ongoing development / refinement of internal methodologies
+Collaborate with business sponsors and product owners to define roadmap/release plan
+Interface with all levels of management to negotiate project priorities and outcomes
+Monitor emerging technology trends in B2B commerce, manufacturing, and Salesforce
+Envision new technical capabilities and common application components
+Ensure solutions are secure, scalable, reusable, resilient, and perform to business partner expectations
+Define priorities to refactor solutions and reduce technical debt
+Monitor progress and provide regular, transparent communication to stakeholders
+Monitor compliance with service level agreements (SLA) for uptime and performance
+Manage interdependencies between internal and external teams and service providers
+Deep knowledge and expertise across the Salesforce.com platform
+Has delivered full end-to-end Salesforce.com implementations/projects, especially including highly integrated/complex ecosystems. Understands how to deliver capabilities on Salesforce AppExchange products.
+Support application and integration design activities with Enterprise and Solution Architects.
+Serves as a collaborative team-player who possesses the ability to drive consensus and comradery. Ability to negotiate and obtain agreement across various constituents and partners at the organization, including within the lines-of-business.
+Acts as the escalation point when issues arise and understand what to do and who to work with to resolve them.
+Ability to stay focused in a fast-paced, high-energy, challenging environment where there are multiple competing priorities daily.
+“Get it done” mentality, with the ability to deliver against achievements, regardless of the challenges thrown their way.
+ 
+
+The duties listed above are the essential functions, or fundamental duties within the job classification.  The essential functions of individual positions within the classification may differ.  Texas Capital Bank may assign reasonably related additional duties to individual employees consistent with standard departmental policy.
+
+Qualifications
+6+ years of experience in designing, building, supporting, and managing Salesforce.com applications/projects
+Proven large enterprise Program/Delivery Management experience
+Experience in Salesforce implementations
+Broad, enterprise-wide view of the business and appreciation for capability / process impacts up-and down-stream of process being examined
+Exceptional communication and facilitation skills at all levels of the organization written, verbal, presentations
+The ability to act as a liaison for the business to other organizational areas, conveying needs / requirements of the business
+Extensive experience planning and deploying either business or IT initiatives (preference for both)
+Must be a team player able to work effectively at all levels of an organization with the ability to influence others to move toward consensus
+Demonstrated ability to work in a very fast paced environment, to manage multiple tasks, and work independently or as a team
+Ability to work with business and technical stakeholders
+Able to integrate information from multiple sources to execute effectively and efficiently
+Ability to provide coherent vision, strategic plans, and leadership to achieve peer/stakeholder buy-in and successful alignment with business vision
+5+ years of experience in leadership positions focused on achieving business results with technology
+A bachelor’s degree in business, MIS, engineering or finance preferred
+A strong “personal brand,” demonstrating a high level of credibility
+Experience developing with additional platforms/languages a plus (Java, .NET, Python, etc)
+Experience delivering against key achievements and managing a project team/plan
+Knowledgeable in release management and code deployment activities/processes
+Financial Services Cloud experience is a plus

@@ -11,6 +11,16 @@
 
 - Established development process and code repositories by introducing AutoRabit
 
+SERVICES PROVIDED:
+• Data Migration & Complex Integrations
+• End User Training
+• Salesforce Value Assurance / Health Checks
+• Salesforce Implementation Progam Oversight
+• Technology Roadmapping / System Design
+• Managed Services / Ongoing Innovation
+ 
+Lightning conversion/ JavaScript buttons to Lightning Components
+
 - Implemented SMS service using Twilio apps and APIs.
 
 - Attended nCino nSight conference and Dreamforce 18.
@@ -19,6 +29,7 @@
   (Earlier they were making many manual changes in Production. Reduced it by 80%)
 
 - ServiceNow Integration.
+
 - Twilio for SMS
 
 - Evaluated products and led the buying process efforts with the vendors.
@@ -120,3 +131,12 @@ This is the first piece of information we’ll see about you, so highlight your ac
 
 
 
+https://cloudmasonry.com/join-the-team/
+https://cloudmasonry.com/services/
+
+RESPONSIBILITIES
+
+Design, oversee, and at times develop, elegant technical solutions for complex business problems
+Collaborate within a wider consulting team to deliver transformational solutions to organizations of all sizes
+Communicate both written and verbally the virtues of the proposed solution while highlighting the trade-offs between various design choices
+Ultimate owner of the success/failure of all technical elements built on or connected to the Salesforce solution
