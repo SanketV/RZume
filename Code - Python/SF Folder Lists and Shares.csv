@@ -1,0 +1,1461 @@
+FolderName,FolderType,SharedWith,ShareType,AccessType
+Dallas Corporate Southwest,report,Jessica Clark,user,view
+Dallas Corporate Southwest,report,Matt Love,user,view
+Dallas Corporate Southwest,report,Preston Roush,user,view
+Dallas Corporate Southwest,report,Shae White,user,manage
+Dallas Corporate Southwest,report,Dallas Corporate SW,roleandsubordinates,view
+Dallas Corporate Southwest,report,Dallas Corporate Southwest,roleandsubordinates,view
+Dallas Corporate Southwest,report,Dallas Corporate Southwest Banking Team,roleandsubordinates,view
+Dallas Corporate Southwest,report,Dallas Corporate Southwest Team,roleandsubordinates,view
+Fort Worth Executive,report,Mark Johnson,user,view
+Fort Worth Executive,report,Fort Worth,role,view
+Global Services,report,Jessica Clark,user,view
+San Antonio Team,report,Cheryl Henk,user,view
+San Antonio Team,report,Jennifer Bailey,user,view
+San Antonio Team,report,Paula May,user,view
+San Antonio Team,report,San Antonio,roleandsubordinates,view
+San Antonio Team,report,Commercial &amp; Regional,roleandsubordinatesinternal,view
+San Antonio Team,report,Commercial/Corporate San Antonio,roleandsubordinatesinternal,view
+San Antonio Team,report,Mark Johnson,roleandsubordinatesinternal,edit
+San Antonio Executive,dashboard,Mark Johnson,user,view
+San Antonio Executive,dashboard,Paula May,user,view
+San Antonio Executive,dashboard,San Antonio,role,view
+Product Management,dashboard,Tracy Jenkins,user,manage
+Compliance,report,Isa Eastland,user,manage
+Compliance,report,Client Support,group,view
+Houston Team,report,Andrea Lawson,user,view
+Houston Team,report,Brenton Bellamy,user,view
+Houston Team,report,Cody Cannon,user,view
+Houston Team,report,Dawn Wesneski,user,view
+Houston Team,report,Eva Pawelek,user,view
+Houston Team,report,Gabe Castaneda,user,view
+Houston Team,report,Gary Junek,user,view
+Houston Team,report,Gary Karter,user,view
+Houston Team,report,Jamie Hibbert,user,view
+Houston Team,report,Joel Landis,user,view
+Houston Team,report,Kurt Goeringer,user,view
+Houston Team,report,Mike Chryssikos,user,view
+Houston Team,report,Mike Robnett,user,view
+Houston Team,report,Norma Mills,user,view
+Houston Team,report,Paula May,user,view
+Houston Team,report,Seth Laroche,user,view
+Houston Team,report,Tim Miller,user,view
+Houston Team,report,Tray Mounce,user,view
+Houston Team,report,William Griffin,user,view
+Houston Team,report,Houston Region &amp; SBA,roleandsubordinates,view
+Houston Team,report,"Corporate, Commercial &amp; Regional",roleandsubordinatesinternal,view
+Houston Team,report,John Sarvadi,roleandsubordinatesinternal,view
+Fort Worth Team,report,Amy Petrilla,user,view
+Fort Worth Team,report,Brent Fescenmeyer,user,view
+Fort Worth Team,report,Eddie Broussard,user,view
+Fort Worth Team,report,James Hill,user,view
+Fort Worth Team,report,Kate Reagan,user,view
+Fort Worth Team,report,Katy Rhodes,user,view
+Fort Worth Team,report,Fort Worth,roleandsubordinates,view
+Draft Reports,report,David Pope,user,view
+Draft Reports,report,Maggie Zaragoza,user,view
+Draft Reports,report,Shae White,user,edit
+Draft Reports,report,Shelly Vyers,user,view
+Draft Reports,report,Tracy Jenkins,user,edit
+Broker Dealer,report,John Sullivan,user,view
+Broker Dealer,report,Shae White,user,manage
+Broker Dealer,report,Broker Dealer,role,view
+Broker Dealer,report,Broker Dealer Team,role,view
+Prod Mgmt Shared,report,Ashlee Adams,user,view
+Prod Mgmt Shared,report,Cynthia Rodgers,user,view
+Prod Mgmt Shared,report,Melissa Loafman,user,view
+Prod Mgmt Shared,report,Sarah Ablett,user,view
+Prod Mgmt Shared,report,Shae White,user,manage
+Prod Mgmt Shared,report,Tracy Jenkins,user,view
+Private Wealth Dashboard Reports,report,Alan Miller,user,view
+Private Wealth Dashboard Reports,report,Ashlee Adams,user,manage
+Private Wealth Dashboard Reports,report,Marie Willars,user,view
+Private Wealth Dashboard Reports,report,Austin Private Wealth Advisors,role,view
+Private Wealth Dashboard Reports,report,Austin Private Wealth Advisors Team,role,view
+Private Wealth Dashboard Reports,report,Dallas Private Wealth Advisors,role,view
+Private Wealth Dashboard Reports,report,Dallas Private Wealth Advisors Team,role,view
+Private Wealth Dashboard Reports,report,Fort Worth Private Wealth Advisors,role,view
+Private Wealth Dashboard Reports,report,Fort Worth Private Wealth Advisors Team,role,view
+Private Wealth Dashboard Reports,report,Houston Private Wealth Advisors,role,view
+Private Wealth Dashboard Reports,report,Houston Private Wealth Advisors Team,role,view
+Private Wealth Dashboard Reports,report,Private Banking,role,view
+Private Wealth Dashboard Reports,report,Private Banking Team,role,view
+Private Wealth Dashboard Reports,report,Private Wealth Advisors,role,view
+Private Wealth Dashboard Reports,report,San Antonio Private Wealth Advisors,role,view
+Private Wealth Dashboard Reports,report,Wealth Management,role,view
+Private Wealth Dashboard Reports,report,Wealth Management and Private Banking,role,view
+Private Wealth Dashboard Reports,report,Wealth Management,roleandsubordinates,view
+Private Wealth Dashboard Reports,report,Private Wealth Advisors,roleandsubordinatesinternal,view
+ACB,report,Brook Silvestri,user,view
+ACB,report,John Sullivan,user,view
+ACB,report,Lo Andrews,user,view
+ACB,report,Shae White,user,manage
+Client Support Dashboards,dashboard,Isa Eastland,user,manage
+Client Support Dashboards,dashboard,Client Support,group,view
+Business Development Reports,report,Alana Gast,user,view
+Business Development Reports,report,Dana Adams,user,view
+Business Development Reports,report,Greg Lewis,user,view
+Business Development Reports,report,John Sullivan,user,view
+Business Development Reports,report,Kate Reagan,user,edit
+Business Development Reports,report,Lisa Nance,user,view
+Business Development Reports,report,Lynne Sanders,user,view
+Business Development Reports,report,Norman Boone,user,view
+Business Development Reports,report,Paula May,user,view
+Business Development Reports,report,Ross Peets,user,view
+Business Development Reports,report,Ruth Jacks,user,view
+Business Development Reports,report,Wendy Holder,user,view
+Business Development Reports,report,Business Development,roleandsubordinates,view
+All Banker Manager Reports,report,All Internal Users,organization,view
+All Banker Manager Reports,report,Silverline,user,manage
+All Banker Manager Reports,report,Association Capital Bank,role,view
+All Banker Manager Reports,report,Austin,role,view
+All Banker Manager Reports,report,Austin Commercial,role,view
+All Banker Manager Reports,report,Austin Commercial 1,role,view
+All Banker Manager Reports,report,Austin Commercial 2,role,view
+All Banker Manager Reports,report,Austin Corporate,role,view
+All Banker Manager Reports,report,Austin Real Estate,role,view
+All Banker Manager Reports,report,Austin Treasury,role,view
+All Banker Manager Reports,report,Bart,role,view
+All Banker Manager Reports,report,Business Development,role,view
+All Banker Manager Reports,report,Correspondent Banking and Syndications,role,view
+All Banker Manager Reports,report,Dallas Business Development,role,view
+All Banker Manager Reports,report,Dallas Commercial,role,view
+All Banker Manager Reports,report,Dallas Commercial 1,role,view
+All Banker Manager Reports,report,Dallas Commercial 2,role,view
+All Banker Manager Reports,report,Dallas Commercial 3,role,view
+All Banker Manager Reports,report,Dallas Corporate,role,view
+All Banker Manager Reports,report,Dallas Corporate &amp; Healthcare,role,view
+All Banker Manager Reports,report,Dallas Real Estate,role,view
+All Banker Manager Reports,report,Dallas Real Estate 1,role,view
+All Banker Manager Reports,report,Dallas Real Estate 2,role,view
+All Banker Manager Reports,report,Dallas Treasury,role,view
+All Banker Manager Reports,report,Dallas Treasury 1,role,view
+All Banker Manager Reports,report,Dallas Treasury 2,role,view
+All Banker Manager Reports,report,Dallas Treasury 3,role,view
+All Banker Manager Reports,report,Dallas Treasury 4,role,view
+All Banker Manager Reports,report,Energy,role,view
+All Banker Manager Reports,report,"Energy, Syndications, Correspondent",role,view
+All Banker Manager Reports,report,Fort Worth,role,view
+All Banker Manager Reports,report,Fort Worth Commercial,role,view
+All Banker Manager Reports,report,Fort Worth Corporate,role,view
+All Banker Manager Reports,report,Fort Worth Real Estate,role,view
+All Banker Manager Reports,report,Houston Business Development,role,view
+All Banker Manager Reports,report,Houston Commercial,role,view
+All Banker Manager Reports,report,Houston Commercial 1,role,view
+All Banker Manager Reports,report,Houston Commercial 2,role,view
+All Banker Manager Reports,report,Houston Corporate,role,view
+All Banker Manager Reports,report,Houston Corporate 1,role,view
+All Banker Manager Reports,report,Houston Corporate 2,role,view
+All Banker Manager Reports,report,Houston Real Estate,role,view
+All Banker Manager Reports,report,Houston Region &amp; SBA,role,view
+All Banker Manager Reports,report,Houston Treasury,role,view
+All Banker Manager Reports,report,Jim Recer,role,view
+All Banker Manager Reports,report,Mark Johnson,role,view
+All Banker Manager Reports,report,Marketing,role,view
+All Banker Manager Reports,report,Private Wealth Advisors,role,view
+All Banker Manager Reports,report,Product Management,role,view
+All Banker Manager Reports,report,Sales &amp; Marketing,role,view
+All Banker Manager Reports,report,San Antonio,role,view
+All Banker Manager Reports,report,San Antonio Commercial,role,view
+All Banker Manager Reports,report,San Antonio Commercial 1,role,view
+All Banker Manager Reports,report,San Antonio Commercial 2,role,view
+All Banker Manager Reports,report,San Antonio Corporate West,role,view
+All Banker Manager Reports,report,San Antonio Real Estate,role,view
+All Banker Manager Reports,report,San Antonio Treasury,role,view
+All Banker Manager Reports,report,Syndicated Finance,role,view
+All Banker Manager Reports,report,Texas Capital Bank,role,view
+All Banker Manager Reports,report,Treasury Misc,role,view
+All Banker Reports,report,All Internal Users,organization,view
+All Banker Reports,report,Silverline,user,manage
+Austin Executive Reports,report,Mark Johnson,user,view
+Austin Executive Reports,report,Austin,role,view
+Austin Reports,report,Austin,roleandsubordinates,view
+Dallas Executive Reports,report,Paula May,user,view
+Dallas Executive Reports,report,Jim Recer,role,view
+Dallas Executive Reports,report,Texas Capital Bank,role,edit
+Dallas Reports,report,Derek Blankenship,user,view
+Dallas Reports,report,Paul Howell,user,view
+Dallas Reports,report,Stacy Thornton,user,view
+Dallas Reports,report,Corporate Dallas,roleandsubordinatesinternal,view
+Dallas Reports,report,Jim Recer,roleandsubordinatesinternal,view
+"Energy,Syndications,Corres Exec Reports",report,"Energy, Syndications, Correspondent",role,view
+"Energy,Syndications,Corres Exec Reports",report,Jim Recer,role,view
+"Energy,Syndications,Corres Exec Reports",report,Specialty Banking,role,view
+"Energy,Syndications,Corres Reports",report,Bradley Kraus,user,view
+"Energy,Syndications,Corres Reports",report,Brenton Bellamy,user,view
+"Energy,Syndications,Corres Reports",report,Gabe Garcia,user,view
+"Energy,Syndications,Corres Reports",report,Grant Leigh,user,view
+"Energy,Syndications,Corres Reports",report,Jamie Hibbert,user,view
+"Energy,Syndications,Corres Reports",report,Jared Mills,user,view
+"Energy,Syndications,Corres Reports",report,Lester Keliher,user,view
+"Energy,Syndications,Corres Reports",report,Philip Jones,user,view
+"Energy,Syndications,Corres Reports",report,Jim Recer,role,view
+"Energy,Syndications,Corres Reports",report,Specialty Banking,role,view
+"Energy,Syndications,Corres Reports",report,"Energy, Syndications, Correspondent",roleandsubordinates,view
+Executive Reports,report,David Pope,user,view
+Executive Reports,report,Maggie Zaragoza,user,view
+Executive Reports,report,Nancy Fosick,user,edit
+Executive Reports,report,Vince Ackerson,user,view
+Executive Reports,report,Jim Recer,role,view
+Executive Reports,report,Specialty Banking,role,view
+Houston Executive Reports,report,Bill Wilson,user,view
+Houston Executive Reports,report,Jessica Clark,user,view
+Houston Executive Reports,report,Joel Landis,user,view
+Houston Executive Reports,report,John Sarvadi,user,view
+Houston Executive Reports,report,Melissa Abel,user,view
+Houston Executive Reports,report,Paul Howell,user,view
+Houston Executive Reports,report,Paula May,user,view
+Houston Executive Reports,report,William Griffin,user,view
+Houston Executive Reports,report,Houston Region &amp; SBA,role,view
+Houston Executive Reports,report,John Sarvadi,role,view
+Private Wealth Executive Reports,report,Marie Willars,user,view
+Private Wealth Executive Reports,report,Jim Recer,role,view
+Private Wealth Executive Reports,report,PWA 1,role,view
+Private Wealth Executive Reports,report,PWA 2,role,view
+Private Wealth Executive Reports,report,PWA 3,role,view
+Private Wealth Executive Reports,report,PWA 4,role,view
+Private Wealth Executive Reports,report,Private Wealth Advisors,role,view
+Private Wealth Executive Reports,report,Specialty Banking,role,view
+Private Wealth Reports,report,Marie Willars,user,view
+Private Wealth Reports,report,Ross Peets,user,view
+Private Wealth Reports,report,Austin Private Wealth Advisors,role,view
+Private Wealth Reports,report,Austin Private Wealth Advisors Team,role,view
+Private Wealth Reports,report,Fort Worth Private Wealth Advisors,role,view
+Private Wealth Reports,report,Fort Worth Private Wealth Advisors Team,role,view
+Private Wealth Reports,report,Houston Private Wealth Advisors,role,view
+Private Wealth Reports,report,Houston Private Wealth Advisors Team,role,view
+Private Wealth Reports,report,Private Banking,role,view
+Private Wealth Reports,report,Private Banking Team,role,view
+Private Wealth Reports,report,Private Wealth Advisors,role,view
+Private Wealth Reports,report,San Antonio Private Wealth Advisors,role,view
+Private Wealth Reports,report,Wealth Management and Private Banking,role,view
+Private Wealth Reports,report,Private Wealth Advisors,roleandsubordinates,view
+Private Wealth Reports,report,Dallas Private Wealth Advisors,roleandsubordinatesinternal,view
+Private Wealth Reports,report,Dallas Private Wealth Advisors Team,roleandsubordinatesinternal,view
+Private Wealth Reports,report,Private Wealth Advisors,roleandsubordinatesinternal,view
+Private Wealth Reports,report,Wealth Management,roleandsubordinatesinternal,view
+San Antonio Executive Reports,report,Mark Johnson,user,view
+San Antonio Executive Reports,report,Paula May,user,view
+San Antonio Executive Reports,report,Mark Johnson,role,edit
+San Antonio Executive Reports,report,San Antonio,role,view
+Misc Reports,report,All Internal Users,organization,view
+Treasury Dashboard Reports,report,Alex Holmes,user,view
+Treasury Dashboard Reports,report,Amy Lezon,user,view
+Treasury Dashboard Reports,report,Ana Chandler,user,view
+Treasury Dashboard Reports,report,Andrea Lawson,user,view
+Treasury Dashboard Reports,report,Brian Jones,user,view
+Treasury Dashboard Reports,report,Cody Cannon,user,view
+Treasury Dashboard Reports,report,Derek Blankenship,user,view
+Treasury Dashboard Reports,report,Elizabeth Hewitt,user,view
+Treasury Dashboard Reports,report,James Sivco,user,view
+Treasury Dashboard Reports,report,Jamie Godfrey,user,view
+Treasury Dashboard Reports,report,Jereme Gooch,user,view
+Treasury Dashboard Reports,report,Jessica Clark,user,view
+Treasury Dashboard Reports,report,Julie Guyton,user,view
+Treasury Dashboard Reports,report,Layne Nunes,user,view
+Treasury Dashboard Reports,report,Mary Redding,user,view
+Treasury Dashboard Reports,report,Misty Derrick,user,view
+Treasury Dashboard Reports,report,Norman Boone,user,view
+Treasury Dashboard Reports,report,Oscar Romero,user,view
+Treasury Dashboard Reports,report,Pam Cofer-Jones,user,edit
+Treasury Dashboard Reports,report,Robert Ross,user,view
+Treasury Dashboard Reports,report,Ruben Bela,user,view
+Treasury Dashboard Reports,report,Salina Bensman,user,view
+Treasury Dashboard Reports,report,Susan Capps,user,view
+Treasury Dashboard Reports,report,Susan James,user,view
+Treasury Dashboard Reports,report,Todd Martin,user,view
+Treasury Dashboard Reports,report,Austin Treasury,role,view
+Treasury Dashboard Reports,report,Dallas Treasury,role,view
+Treasury Dashboard Reports,report,Houston Treasury,role,view
+Treasury Dashboard Reports,report,San Antonio Treasury,role,view
+Treasury Dashboard Reports,report,T&amp;L Austin,role,view
+Treasury Dashboard Reports,report,T&amp;L Dallas,role,view
+Treasury Dashboard Reports,report,T&amp;L Houston,role,view
+Treasury Dashboard Reports,report,T&amp;L San Antonio,role,view
+Treasury Reports,report,Alex Holmes,user,view
+Treasury Reports,report,Amy Lezon,user,view
+Treasury Reports,report,Ana Chandler,user,view
+Treasury Reports,report,Andrea Lawson,user,view
+Treasury Reports,report,Brian Jones,user,view
+Treasury Reports,report,Cody Cannon,user,view
+Treasury Reports,report,Curtis Burchard,user,view
+Treasury Reports,report,David Felan,user,view
+Treasury Reports,report,David Fricke,user,view
+Treasury Reports,report,Derek Blankenship,user,view
+Treasury Reports,report,Elizabeth Falco,user,view
+Treasury Reports,report,Elizabeth Hewitt,user,view
+Treasury Reports,report,Gregory Penn,user,view
+Treasury Reports,report,Jamie Godfrey,user,view
+Treasury Reports,report,Jereme Gooch,user,view
+Treasury Reports,report,Jesse Jackson,user,view
+Treasury Reports,report,Johnnie Almazan,user,view
+Treasury Reports,report,Jonathan Snow,user,view
+Treasury Reports,report,Julie Guyton,user,view
+Treasury Reports,report,Kinnali Jordan,user,view
+Treasury Reports,report,Layne Nunes,user,view
+Treasury Reports,report,Lester Keliher,user,view
+Treasury Reports,report,Mary Redding,user,view
+Treasury Reports,report,Melissa Abel,user,view
+Treasury Reports,report,Misty Derrick,user,view
+Treasury Reports,report,Norman Boone,user,view
+Treasury Reports,report,Oscar Romero,user,view
+Treasury Reports,report,Pam Cofer-Jones,user,edit
+Treasury Reports,report,Paul Howell,user,view
+Treasury Reports,report,Paula May,user,view
+Treasury Reports,report,Robert Ross,user,view
+Treasury Reports,report,Ross Peets,user,view
+Treasury Reports,report,Ruben Bela,user,view
+Treasury Reports,report,Salina Bensman,user,view
+Treasury Reports,report,Susan Capps,user,view
+Treasury Reports,report,Susan James,user,view
+Treasury Reports,report,Thomas Seifert,user,view
+Treasury Reports,report,Todd Martin,user,view
+Treasury Reports,report,ACH Department,role,view
+Treasury Reports,report,Compliance,role,view
+Treasury Reports,report,Treasury Client Support Supervisor,role,view
+Treasury Reports,report,Treasury Client Support Team,role,view
+Treasury Reports,report,Treasury Onboarding Supervisor,role,view
+Treasury Reports,report,Treasury Onboarding Team,role,view
+Treasury Reports,report,Austin Treasury,roleandsubordinates,view
+Treasury Reports,report,Dallas Treasury,roleandsubordinates,view
+Treasury Reports,report,Houston Treasury,roleandsubordinates,view
+Treasury Reports,report,San Antonio Treasury,roleandsubordinates,view
+Treasury Reports,report,T&amp;L Austin,roleandsubordinates,view
+Treasury Reports,report,T&amp;L Dallas,roleandsubordinates,view
+Treasury Reports,report,T&amp;L Houston,roleandsubordinates,view
+Treasury Reports,report,T&amp;L San Antonio,roleandsubordinates,view
+All Banker Dashboards,dashboard,All Internal Users,organization,view
+All Banker Dashboards,dashboard,Sally Hazen,user,view
+All Banker Dashboards,dashboard,Silverline,user,manage
+Austin Executive Dashboards,dashboard,Mark Johnson,user,view
+Austin Executive Dashboards,dashboard,Austin,role,view
+Business Development Exec Dashboards,dashboard,Greg Lewis,user,view
+Business Development Exec Dashboards,dashboard,Kate Reagan,user,view
+Business Development Exec Dashboards,dashboard,Lynne Sanders,user,view
+Business Development Exec Dashboards,dashboard,Misty Derrick,user,view
+Business Development Exec Dashboards,dashboard,Rick Rogers,user,view
+Business Development Exec Dashboards,dashboard,Wendy Holder,user,view
+Business Development Exec Dashboards,dashboard,Business Development,role,view
+Dallas Executive Dashboards,dashboard,Paula May,user,view
+Dallas Executive Dashboards,dashboard,Jim Recer,role,view
+"Energy,Syndications,Corres Exec Dash",dashboard,"Energy, Syndications, Correspondent",role,view
+"Energy,Syndications,Corres Exec Dash",dashboard,Jim Recer,role,view
+"Energy,Syndications,Corres Exec Dash",dashboard,Specialty Banking,role,view
+Executive Dashboards,dashboard,Keith Cargill,user,view
+Executive Dashboards,dashboard,Nancy Fosick,user,edit
+Executive Dashboards,dashboard,Vince Ackerson,user,view
+Executive Dashboards,dashboard,Jim Recer,role,view
+Fort Worth Executive Dashboards,dashboard,Amy Petrilla,user,view
+Fort Worth Executive Dashboards,dashboard,Brent Fescenmeyer,user,view
+Fort Worth Executive Dashboards,dashboard,Eddie Broussard,user,view
+Fort Worth Executive Dashboards,dashboard,James Hill,user,view
+Fort Worth Executive Dashboards,dashboard,Kate Reagan,user,view
+Fort Worth Executive Dashboards,dashboard,Katy Rhodes,user,view
+Fort Worth Executive Dashboards,dashboard,Mark Johnson,user,view
+Fort Worth Executive Dashboards,dashboard,Fort Worth,role,view
+Houston Executive Dashboards,dashboard,Andrea Lawson,user,view
+Houston Executive Dashboards,dashboard,Gregory Penn,user,view
+Houston Executive Dashboards,dashboard,James Sivco,user,view
+Houston Executive Dashboards,dashboard,Jessica Clark,user,view
+Houston Executive Dashboards,dashboard,Joel Landis,user,view
+Houston Executive Dashboards,dashboard,Layne Nunes,user,view
+Houston Executive Dashboards,dashboard,Marissa Ricci,user,view
+Houston Executive Dashboards,dashboard,Melissa Abel,user,view
+Houston Executive Dashboards,dashboard,Pam Cofer-Jones,user,view
+Houston Executive Dashboards,dashboard,Paul Howell,user,view
+Houston Executive Dashboards,dashboard,Paula May,user,view
+Houston Executive Dashboards,dashboard,William Griffin,user,view
+Houston Executive Dashboards,dashboard,Houston Region &amp; SBA,role,view
+Houston Executive Dashboards,dashboard,John Sarvadi,role,view
+Private Wealth Executive Dashboards,dashboard,Marie Willars,user,view
+Private Wealth Executive Dashboards,dashboard,Pat Brockette,user,view
+Private Wealth Executive Dashboards,dashboard,Private Wealth Advisors,role,view
+Misc Reports,dashboard,All Internal Users,organization,view
+Treasury Executive Dashboards,dashboard,Alex Holmes,user,view
+Treasury Executive Dashboards,dashboard,Amy Lezon,user,view
+Treasury Executive Dashboards,dashboard,Andrea Lawson,user,view
+Treasury Executive Dashboards,dashboard,Bart McCain,user,view
+Treasury Executive Dashboards,dashboard,Brandon Troster,user,view
+Treasury Executive Dashboards,dashboard,Brian Jones,user,view
+Treasury Executive Dashboards,dashboard,Cody Cannon,user,view
+Treasury Executive Dashboards,dashboard,Curtis Burchard,user,view
+Treasury Executive Dashboards,dashboard,David Fricke,user,view
+Treasury Executive Dashboards,dashboard,Derek Blankenship,user,view
+Treasury Executive Dashboards,dashboard,Elizabeth Falco,user,view
+Treasury Executive Dashboards,dashboard,Elizabeth Hewitt,user,view
+Treasury Executive Dashboards,dashboard,Greg Lewis,user,view
+Treasury Executive Dashboards,dashboard,Gregory Penn,user,view
+Treasury Executive Dashboards,dashboard,Jamie Godfrey,user,view
+Treasury Executive Dashboards,dashboard,Jereme Gooch,user,view
+Treasury Executive Dashboards,dashboard,Jesse Jackson,user,view
+Treasury Executive Dashboards,dashboard,John Sullivan,user,view
+Treasury Executive Dashboards,dashboard,Julie Guyton,user,view
+Treasury Executive Dashboards,dashboard,Layne Nunes,user,view
+Treasury Executive Dashboards,dashboard,Lester Keliher,user,view
+Treasury Executive Dashboards,dashboard,Lo Andrews,user,view
+Treasury Executive Dashboards,dashboard,Mary Redding,user,view
+Treasury Executive Dashboards,dashboard,Melissa Abel,user,view
+Treasury Executive Dashboards,dashboard,Misty Derrick,user,view
+Treasury Executive Dashboards,dashboard,Norman Boone,user,view
+Treasury Executive Dashboards,dashboard,Oscar Romero,user,view
+Treasury Executive Dashboards,dashboard,Pam Cofer-Jones,user,view
+Treasury Executive Dashboards,dashboard,Paul Howell,user,view
+Treasury Executive Dashboards,dashboard,Robert Ross,user,view
+Treasury Executive Dashboards,dashboard,Ruben Bela,user,view
+Treasury Executive Dashboards,dashboard,Salina Bensman,user,view
+Treasury Executive Dashboards,dashboard,Susan James,user,view
+Treasury Executive Dashboards,dashboard,Todd Martin,user,view
+Treasury Executive Dashboards,dashboard,Austin Treasury,role,view
+Treasury Executive Dashboards,dashboard,Dallas Treasury,role,view
+Treasury Executive Dashboards,dashboard,Houston Treasury,role,view
+Treasury Executive Dashboards,dashboard,San Antonio Treasury,role,view
+Treasury Executive Dashboards,dashboard,T&amp;L Austin,role,view
+Treasury Executive Dashboards,dashboard,T&amp;L Dallas,role,view
+Treasury Executive Dashboards,dashboard,T&amp;L Houston,role,view
+Treasury Executive Dashboards,dashboard,T&amp;L San Antonio,role,view
+Treasury Executive Dashboards,dashboard,Business Development,roleandsubordinates,view
+Treasury Executive Dashboards,dashboard,Dallas Business Development,roleandsubordinates,view
+Treasury Executive Dashboards,dashboard,Houston Business Development,roleandsubordinates,view
+Treasury Executive Dashboards,dashboard,T&amp;L Austin,roleandsubordinates,view
+Treasury Executive Dashboards,dashboard,T&amp;L Dallas,roleandsubordinates,view
+Integration Testing,report,Ashlee Adams,user,view
+Integration Testing,report,Cynthia Rodgers,user,view
+Integration Testing,report,Salesforce Support,user,view
+Integration Testing,report,Shae White,user,view
+Integration Testing,report,Tracy Jenkins,user,view
+"Austin, Fort Worth &amp; San Antonio Reports",report,Mark Johnson,user,view
+"Austin, Fort Worth &amp; San Antonio Reports",report,Paula May,user,view
+"Austin, Fort Worth &amp; San Antonio Reports",report,Shae White,user,manage
+"Austin,Fort Worth &amp;San Antonio Dashboard",dashboard,Mark Johnson,user,view
+"Austin,Fort Worth &amp;San Antonio Dashboard",dashboard,Paula May,user,view
+"Austin,Fort Worth &amp;San Antonio Dashboard",dashboard,Shae White,user,manage
+Fort Worth Dashboard Reports,report,Amy Petrilla,user,view
+Fort Worth Dashboard Reports,report,Brent Fescenmeyer,user,view
+Fort Worth Dashboard Reports,report,Eddie Broussard,user,view
+Fort Worth Dashboard Reports,report,James Hill,user,view
+Fort Worth Dashboard Reports,report,Kate Reagan,user,view
+Fort Worth Dashboard Reports,report,Katy Rhodes,user,view
+Fort Worth Dashboard Reports,report,Mark Johnson,user,view
+Fort Worth Dashboard Reports,report,Fort Worth,role,view
+San Antonio Dashboard Reports,report,Mark Johnson,user,view
+San Antonio Dashboard Reports,report,Paula May,user,view
+San Antonio Dashboard Reports,report,San Antonio,role,view
+Houston Dashboard Reports,report,Paula May,user,view
+Houston Dashboard Reports,report,Houston Region &amp; SBA,role,view
+Houston Dashboard Reports,report,John Sarvadi,roleandsubordinatesinternal,view
+Executive Dashboard Reports,report,Texas Capital Bank,role,view
+All Banker Dashboard Reports,report,All Internal Users,organization,view
+All Banker Dashboard Reports,report,Sally Hazen,user,view
+All Banker Dashboard Reports,report,Silverline,user,manage
+Dallas Dashboard Reports,report,Jessica Clark,user,view
+Dallas Dashboard Reports,report,Stacy Thornton,user,view
+Dallas Dashboard Reports,report,Corporate Dallas,roleandsubordinatesinternal,view
+Dallas Dashboard Reports,report,Jim Recer,roleandsubordinatesinternal,view
+Dallas Dashboard Reports,report,Specialty Banking,roleandsubordinatesinternal,view
+Austin Dashboard Reports,report,Mark Johnson,user,view
+Austin Dashboard Reports,report,Austin,role,view
+All Banker Manager Dashboard Reports,report,Melissa Abel,user,view
+All Banker Manager Dashboard Reports,report,Silverline,user,manage
+All Banker Manager Dashboard Reports,report,Association Capital Bank,role,view
+All Banker Manager Dashboard Reports,report,Austin,role,view
+All Banker Manager Dashboard Reports,report,Austin Commercial,role,view
+All Banker Manager Dashboard Reports,report,Austin Commercial 1,role,view
+All Banker Manager Dashboard Reports,report,Austin Commercial 2,role,view
+All Banker Manager Dashboard Reports,report,Austin Corporate,role,view
+All Banker Manager Dashboard Reports,report,Austin Real Estate,role,view
+All Banker Manager Dashboard Reports,report,Austin Treasury,role,view
+All Banker Manager Dashboard Reports,report,Bank Direct Manager,role,view
+All Banker Manager Dashboard Reports,report,Bart,role,view
+All Banker Manager Dashboard Reports,report,Broker Dealer,role,view
+All Banker Manager Dashboard Reports,report,Business Development,role,view
+All Banker Manager Dashboard Reports,report,Compliance,role,view
+All Banker Manager Dashboard Reports,report,Correspondent Banking and Syndications,role,view
+All Banker Manager Dashboard Reports,report,Dallas Business Development,role,view
+All Banker Manager Dashboard Reports,report,Dallas Commercial,role,view
+All Banker Manager Dashboard Reports,report,Dallas Commercial 1,role,view
+All Banker Manager Dashboard Reports,report,Dallas Commercial 2,role,view
+All Banker Manager Dashboard Reports,report,Dallas Commercial 3,role,view
+All Banker Manager Dashboard Reports,report,Dallas Corporate,role,view
+All Banker Manager Dashboard Reports,report,Dallas Corporate &amp; Healthcare,role,view
+All Banker Manager Dashboard Reports,report,Dallas Corporate Corporate &amp; Public Finance,role,view
+All Banker Manager Dashboard Reports,report,Dallas Energy,role,view
+All Banker Manager Dashboard Reports,report,Dallas Real Estate 1,role,view
+All Banker Manager Dashboard Reports,report,Dallas Real Estate 2,role,view
+All Banker Manager Dashboard Reports,report,Dallas Region &amp; Public Finance,role,view
+All Banker Manager Dashboard Reports,report,Dallas Treasury,role,view
+All Banker Manager Dashboard Reports,report,Dallas Treasury 1,role,view
+All Banker Manager Dashboard Reports,report,Dallas Treasury 2,role,view
+All Banker Manager Dashboard Reports,report,Dallas Treasury 3,role,view
+All Banker Manager Dashboard Reports,report,Dallas Treasury 4,role,view
+All Banker Manager Dashboard Reports,report,Energy,role,view
+All Banker Manager Dashboard Reports,report,"Energy, Syndications, Correspondent",role,view
+All Banker Manager Dashboard Reports,report,Fort Worth,role,view
+All Banker Manager Dashboard Reports,report,Fort Worth Commercial,role,view
+All Banker Manager Dashboard Reports,report,Fort Worth Corporate,role,view
+All Banker Manager Dashboard Reports,report,Fort Worth Real Estate,role,view
+All Banker Manager Dashboard Reports,report,Houston Business Development,role,view
+All Banker Manager Dashboard Reports,report,Houston Commercial,role,view
+All Banker Manager Dashboard Reports,report,Houston Commercial 1,role,view
+All Banker Manager Dashboard Reports,report,Houston Commercial 2,role,view
+All Banker Manager Dashboard Reports,report,Houston Corporate,role,view
+All Banker Manager Dashboard Reports,report,Houston Corporate 1,role,view
+All Banker Manager Dashboard Reports,report,Houston Corporate 2,role,view
+All Banker Manager Dashboard Reports,report,Houston Corporate 3,role,view
+All Banker Manager Dashboard Reports,report,Houston Energy,role,view
+All Banker Manager Dashboard Reports,report,Houston Franchise,role,view
+All Banker Manager Dashboard Reports,report,Houston Real Estate,role,view
+All Banker Manager Dashboard Reports,report,Houston Region &amp; SBA,role,view
+All Banker Manager Dashboard Reports,report,Houston Treasury,role,view
+All Banker Manager Dashboard Reports,report,Jim Recer,role,view
+All Banker Manager Dashboard Reports,report,John Sarvadi,role,view
+All Banker Manager Dashboard Reports,report,Mark Johnson,role,view
+All Banker Manager Dashboard Reports,report,Marketing,role,view
+All Banker Manager Dashboard Reports,report,Marketing Team,role,view
+All Banker Manager Dashboard Reports,report,Operational Administration,role,view
+All Banker Manager Dashboard Reports,report,Private Banking,role,view
+All Banker Manager Dashboard Reports,report,Product Management,role,view
+All Banker Manager Dashboard Reports,report,Regional Energy,role,view
+All Banker Manager Dashboard Reports,report,Sales,role,view
+All Banker Manager Dashboard Reports,report,Sales &amp; Marketing,role,view
+All Banker Manager Dashboard Reports,report,San Antonio,role,view
+All Banker Manager Dashboard Reports,report,San Antonio Commercial,role,view
+All Banker Manager Dashboard Reports,report,San Antonio Commercial 1,role,view
+All Banker Manager Dashboard Reports,report,San Antonio Commercial 2,role,view
+All Banker Manager Dashboard Reports,report,San Antonio Corporate West,role,view
+All Banker Manager Dashboard Reports,report,San Antonio Real Estate,role,view
+All Banker Manager Dashboard Reports,report,San Antonio Treasury,role,view
+All Banker Manager Dashboard Reports,report,Syndicated Finance,role,view
+All Banker Manager Dashboard Reports,report,Lender Finance,roleandsubordinatesinternal,view
+Real Estate Team,report,Cheryl Henk,user,edit
+Real Estate Team,report,Curtis Burchard,user,view
+Real Estate Team,report,Katie Crowley,user,view
+Real Estate Team,report,Paula May,user,view
+Real Estate Team,report,Tracy Jenkins,user,manage
+Real Estate Team,report,Austin Real Estate,roleandsubordinates,view
+Real Estate Team,report,Austin Real Estate Team,roleandsubordinates,view
+Real Estate Team,report,Dallas Real Estate,roleandsubordinates,view
+Real Estate Team,report,Dallas Real Estate 1,roleandsubordinates,view
+Real Estate Team,report,Dallas Real Estate 1 Team,roleandsubordinates,view
+Real Estate Team,report,Dallas Real Estate 2,roleandsubordinates,view
+Real Estate Team,report,Fort Worth Real Estate,roleandsubordinates,view
+Real Estate Team,report,Fort Worth Real Estate Team,roleandsubordinates,view
+Real Estate Team,report,Houston Real Estate,roleandsubordinates,view
+Real Estate Team,report,Houston Real Estate Team,roleandsubordinates,view
+Real Estate Team,report,San Antonio Real Estate,roleandsubordinates,view
+Real Estate Team,report,San Antonio Real Estate Team,roleandsubordinates,view
+Tracy &amp; Shae,report,Shae White,user,view
+Tracy &amp; Shae,report,Tracy Jenkins,user,manage
+Real Estate Dashboard Reports,report,Cheryl Henk,user,view
+Real Estate Dashboard Reports,report,Curtis Burchard,user,view
+Real Estate Dashboard Reports,report,Paula May,user,view
+Real Estate Dashboard Reports,report,Tracy Jenkins,user,manage
+Real Estate Dashboard Reports,report,Austin Real Estate,roleandsubordinates,view
+Real Estate Dashboard Reports,report,Austin Real Estate Team,roleandsubordinates,view
+Real Estate Dashboard Reports,report,Dallas Real Estate,roleandsubordinates,view
+Real Estate Dashboard Reports,report,Dallas Real Estate 1,roleandsubordinates,view
+Real Estate Dashboard Reports,report,Dallas Real Estate 1 Team,roleandsubordinates,view
+Real Estate Dashboard Reports,report,Dallas Real Estate 2,roleandsubordinates,view
+Real Estate Dashboard Reports,report,Fort Worth Real Estate,roleandsubordinates,view
+Real Estate Dashboard Reports,report,Fort Worth Real Estate Team,roleandsubordinates,view
+Real Estate Dashboard Reports,report,Houston Real Estate,roleandsubordinates,view
+Real Estate Dashboard Reports,report,Houston Real Estate Team,roleandsubordinates,view
+Real Estate Dashboard Reports,report,San Antonio Real Estate,roleandsubordinates,view
+Real Estate Dashboard Reports,report,San Antonio Real Estate Team,roleandsubordinates,view
+Real Estate Executive,dashboard,Cheryl Henk,user,view
+Real Estate Executive,dashboard,Curtis Burchard,user,view
+Real Estate Executive,dashboard,Paula May,user,view
+Real Estate Executive,dashboard,Tracy Jenkins,user,manage
+Alisha/Tonya,report,Alisha Henderson,user,view
+Alisha/Tonya,report,Tonya Adams,user,view
+Alisha/Tonya,report,Tracy Jenkins,user,manage
+Marketing and Business Dev Reports,report,Ashlee Adams,user,manage
+Marketing and Business Dev Reports,report,Kate Reagan,user,edit
+Marketing and Business Dev Reports,report,Lexi Leonie,user,view
+Marketing and Business Dev Reports,report,Lynne Sanders,user,edit
+Marketing and Business Dev Reports,report,Marc Daigle,user,edit
+Marketing and Business Dev Reports,report,Ross Peets,user,edit
+Marketing and Business Dev Reports,report,Wendy Holder,user,edit
+Marketing and Business Dev Dashboard,dashboard,Ashlee Adams,user,manage
+Marketing and Business Dev Dashboard,dashboard,Kate Reagan,user,edit
+Marketing and Business Dev Dashboard,dashboard,Lexi Leonie,user,view
+Marketing and Business Dev Dashboard,dashboard,Lynne Sanders,user,edit
+Marketing and Business Dev Dashboard,dashboard,Marc Daigle,user,edit
+Marketing and Business Dev Dashboard,dashboard,Ross Peets,user,edit
+Marketing and Business Dev Dashboard,dashboard,Wendy Holder,user,edit
+Salesforce Admins Working Folder,report,Ashlee Adams,user,manage
+Salesforce Admins Working Folder,report,Cynthia Rodgers,user,manage
+Salesforce Admins Working Folder,report,Shae White,user,manage
+Salesforce Admins Working Folder,report,Tracy Jenkins,user,manage
+Salesforce Admins Working Dashboards,dashboard,Ashlee Adams,user,manage
+Salesforce Admins Working Dashboards,dashboard,Cynthia Rodgers,user,manage
+Salesforce Admins Working Dashboards,dashboard,Shae White,user,manage
+Salesforce Admins Working Dashboards,dashboard,Tracy Jenkins,user,manage
+Lender Finance Reports,report,Bradley Fisher,user,view
+Lender Finance Reports,report,David Fricke,user,view
+Lender Finance Reports,report,Eric Trainor,user,view
+Lender Finance Reports,report,Jessica Clark,user,edit
+Lender Finance Reports,report,Layne Nunes,user,view
+Lender Finance Reports,report,Matthew Hall,user,view
+Lender Finance Reports,report,Pam Cofer-Jones,user,view
+Lender Finance Reports,report,Stephanie Bowman,user,view
+Lender Finance Reports,report,Stephen Thomas,user,view
+Lender Finance Reports,report,Lender Finance,roleandsubordinates,view
+Lender Finance Reports,report,Lender Finance Team,roleandsubordinates,view
+Private Wealth Team Dashboard,dashboard,Ashlee Adams,user,manage
+Private Wealth Team Dashboard,dashboard,Cynthia Rodgers,user,manage
+Private Wealth Team Dashboard,dashboard,Marie Willars,user,view
+Private Wealth Team Dashboard,dashboard,Shae White,user,manage
+Private Wealth Team Dashboard,dashboard,Tracy Jenkins,user,manage
+Private Wealth Team Dashboard,dashboard,Austin Private Wealth Advisors,role,view
+Private Wealth Team Dashboard,dashboard,Austin Private Wealth Advisors Team,role,view
+Private Wealth Team Dashboard,dashboard,Dallas Private Wealth Advisors,role,view
+Private Wealth Team Dashboard,dashboard,Dallas Private Wealth Advisors Team,role,view
+Private Wealth Team Dashboard,dashboard,Fort Worth Private Wealth Advisors,role,view
+Private Wealth Team Dashboard,dashboard,Fort Worth Private Wealth Advisors Team,role,view
+Private Wealth Team Dashboard,dashboard,Jim Recer,role,view
+Private Wealth Team Dashboard,dashboard,Wealth Management,role,view
+Private Wealth Team Dashboard,dashboard,Wealth Management and Private Banking,role,view
+Private Wealth Team Dashboard,dashboard,Austin Private Wealth Advisors,roleandsubordinates,view
+Private Wealth Team Dashboard,dashboard,Austin Private Wealth Advisors Team,roleandsubordinates,view
+Private Wealth Team Dashboard,dashboard,Fort Worth Private Wealth Advisors,roleandsubordinates,view
+Private Wealth Team Dashboard,dashboard,Fort Worth Private Wealth Advisors Team,roleandsubordinates,view
+Private Wealth Team Dashboard,dashboard,Houston Private Wealth Advisors,roleandsubordinates,view
+Private Wealth Team Dashboard,dashboard,Houston Private Wealth Advisors Team,roleandsubordinates,view
+Private Wealth Team Dashboard,dashboard,Private Banking,roleandsubordinates,view
+Private Wealth Team Dashboard,dashboard,Private Banking Team,roleandsubordinates,view
+Private Wealth Team Dashboard,dashboard,Private Wealth Advisors,roleandsubordinates,view
+Private Wealth Team Dashboard,dashboard,San Antonio Private Wealth Advisors,roleandsubordinates,view
+Private Wealth Team Dashboard,dashboard,Private Wealth Advisors,roleandsubordinatesinternal,view
+Jim Recer,report,Andrew Nesbitt,user,view
+Jim Recer,report,Ashley Waldroup,user,view
+Jim Recer,report,Cheryl Henk,user,view
+Jim Recer,report,Mike Coyne,user,view
+Jim Recer,report,Paula May,user,manage
+Jim Recer,report,Rebecca Conner,user,view
+Jim Recer,report,Stacy Thornton,user,view
+Jim Recer,report,Tracy Jenkins,user,manage
+Franchise,report,Brian Frank,user,view
+Franchise,report,Charles Adams,user,view
+Franchise,report,Jessica Clark,user,edit
+Franchise,report,John Sarvadi,user,view
+Franchise,report,Laura Galindo,user,view
+Franchise,report,Ryan Wark,user,view
+Franchise,report,Tracy Jenkins,user,manage
+Franchise,report,Ty Bretz,user,view
+Franchise,report,Houston Franchise,role,edit
+Dallas C&amp;H,report,Brian Walsh,user,view
+Dallas C&amp;H,report,Claudia Reed,user,view
+Dallas C&amp;H,report,Elizabeth Falco,user,view
+Dallas C&amp;H,report,Paula May,user,view
+Dallas C&amp;H,report,Preston Roush,user,view
+Dallas C&amp;H,report,Tracy Jenkins,user,manage
+Dallas C&amp;H,report,Dallas Corporate &amp; Healthcare,role,view
+Dallas C&amp;H,report,Dallas Corporate &amp; Healthcare Team,role,view
+Dallas Commercial,report,Jesse Jackson,user,view
+Dallas Commercial,report,Mike Robnett,user,view
+Dallas Commercial,report,Pam Cofer-Jones,user,view
+Dallas Commercial,report,Randy Lasley,user,view
+Dallas Commercial,report,Stacy Thornton,user,view
+Dallas Commercial,report,Susan James,user,view
+Dallas Commercial,report,Tracy Jenkins,user,manage
+Dallas Commercial,report,Dallas Commercial,role,view
+Dallas Commercial,report,Dallas Commercial 1,role,view
+Dallas Commercial,report,Dallas Commercial 1 Team,role,view
+Dallas Commercial,report,Dallas Commercial 2,role,view
+Dallas Commercial,report,Dallas Commercial 2 Team,role,view
+Dallas Commercial,report,Dallas Commercial 3,role,view
+Treasury (PRINT ONLY) Reports,report,Alex Holmes,user,view
+Treasury (PRINT ONLY) Reports,report,Amy Lezon,user,view
+Treasury (PRINT ONLY) Reports,report,Andrea Lawson,user,view
+Treasury (PRINT ONLY) Reports,report,Brian Jones,user,view
+Treasury (PRINT ONLY) Reports,report,Derek Blankenship,user,view
+Treasury (PRINT ONLY) Reports,report,Elizabeth Hewitt,user,view
+Treasury (PRINT ONLY) Reports,report,Jamie Godfrey,user,view
+Treasury (PRINT ONLY) Reports,report,Jereme Gooch,user,view
+Treasury (PRINT ONLY) Reports,report,Julie Guyton,user,view
+Treasury (PRINT ONLY) Reports,report,Kathy Colvard,user,view
+Treasury (PRINT ONLY) Reports,report,Mary Redding,user,view
+Treasury (PRINT ONLY) Reports,report,Misty Derrick,user,view
+Treasury (PRINT ONLY) Reports,report,Norman Boone,user,view
+Treasury (PRINT ONLY) Reports,report,Pam Cofer-Jones,user,edit
+Treasury (PRINT ONLY) Reports,report,Robert Ross,user,view
+Treasury (PRINT ONLY) Reports,report,Salina Bensman,user,view
+Treasury (PRINT ONLY) Reports,report,Susan James,user,view
+Treasury (PRINT ONLY) Reports,report,Todd Martin,user,view
+User Dashboards,report,Tracy Jenkins,user,manage
+DB - Adoption,report,Tracy Jenkins,user,manage
+Salesforce Adoption Dashboards,dashboard,Tracy Jenkins,user,manage
+Asset Based Lending,report,Chris Capriotti,user,view
+Asset Based Lending,report,Jeff Tompkins,user,view
+Asset Based Lending,report,Jessica Clark,user,view
+Asset Based Lending,report,John Sarvadi,user,view
+Asset Based Lending,report,Shae White,user,manage
+Asset Based Lending,report,Terri Sandridge,user,view
+Asset Based Lending,report,Asset Based Lending,roleandsubordinates,view
+Financial Services,report,Brook Silvestri,user,view
+Financial Services,report,Derek Blankenship,user,view
+Financial Services,report,Jeff Wagner,user,view
+Financial Services,report,Lo Andrews,user,view
+Financial Services,report,Pam Cofer-Jones,user,view
+Financial Services,report,Peter Stringer,user,view
+Financial Services,report,Sally Hazen,user,view
+Financial Services,report,Shae White,user,manage
+Financial Services,report,Susan Capps,user,manage
+Financial Services,report,Tracy Jenkins,user,view
+Financial Services,report,Correspondent Banking Team,role,view
+Specialized Industries,report,Specialized Industries,role,view
+Deposit and Liquidity Reports,report,Brian Jones,user,view
+Deposit and Liquidity Reports,report,Greg Lewis,user,view
+Deposit and Liquidity Reports,report,John Sullivan,user,view
+Deposit and Liquidity Dashboard,dashboard,Brian Jones,user,view
+Deposit and Liquidity Dashboard,dashboard,Greg Lewis,user,view
+Deposit and Liquidity Dashboard,dashboard,John Sullivan,user,view
+EPSI,report,Shae White,user,manage
+EPSI,report,EPSI,group,view
+Business Development Dashboard Reports,report,Eddie Broussard,user,view
+Business Development Dashboard Reports,report,Kate Reagan,user,view
+Mortgage Finance Reports,report,Cindy Levreault,user,view
+Mortgage Finance Reports,report,Shae White,user,manage
+Mortgage Finance Reports,report,Mortgage Finance,roleandsubordinates,view
+SBA,report,Clyde Thompson,user,view
+SBA,report,Connie Ramos,user,view
+SBA,report,J.P. Prinz,user,view
+SBA,report,John Gannon,user,manage
+SBA,report,Lisa Yowell,user,view
+SBA,report,Ross Peets,user,view
+Builder Finance,report,Jessica Clark,user,view
+Builder Finance,report,John Sarvadi,user,view
+Builder Finance,report,Shae White,user,manage
+Builder Finance,report,Builder Finance Loan Team,role,view
+Builder Finance,report,Builder Finance Team,role,view
+Builder Finance,report,Builder Finance,roleandsubordinates,view
+Mark Johnson,report,Maggie Zaragoza,user,view
+Mark Johnson,report,Mark Johnson,user,view
+Mark Johnson,report,Mike Coyne,user,view
+Mark Johnson,report,Rebecca Conner,user,view
+Mark Johnson,report,Shae White,user,manage
+John Sarvadi,report,Jessica Clark,user,view
+John Sarvadi,report,John Sarvadi,user,view
+John Sarvadi,report,Mike Coyne,user,view
+John Sarvadi,report,Rebecca Conner,user,view
+John Sarvadi,report,Shae White,user,manage
+Greg Lewis,report,Greg Lewis,user,view
+Greg Lewis,report,Mike Coyne,user,view
+Greg Lewis,report,Rebecca Conner,user,view
+Greg Lewis,report,Shae White,user,manage
+Syndicated Finance,report,Shae White,user,manage
+Syndicated Finance,report,Syndicated Finance,role,view
+Syndicated Finance,report,Syndicated Finance Team,role,view
+Nikunj,report,Elizabeth Falco,user,view
+Nikunj,report,Jessica Clark,user,view
+Nikunj,report,Layne Nunes,user,view
+Nikunj,report,Marissa Ricci,user,view
+Nikunj,report,Nikunj Vashi,user,manage
+Nikunj,report,Pam Cofer-Jones,user,manage
+Nikunj,report,Paul Howell,user,view
+Nikunj,report,Peter Stringer,user,view
+Nikunj,report,Preston Roush,user,view
+Nikunj,report,Victor Tekell,user,view
+Nikunj,report,William Griffin,user,view
+Leasing,report,Jim Recer,user,view
+Leasing,report,Nelson Henry,user,view
+Leasing,report,Nikunj Vashi,user,manage
+Leasing,report,Pam Cofer-Jones,user,view
+Leasing,report,Paula May,user,view
+Treasury Ops Audit Reports,report,Ashlee Adams,user,manage
+Treasury Ops Audit Reports,report,Tim Graves,user,edit
+John Gannon - SBA,report,Clyde Thompson,user,view
+John Gannon - SBA,report,Debra Cheek,user,view
+John Gannon - SBA,report,J.P. Prinz,user,view
+John Gannon - SBA,report,John Gannon,user,view
+John Gannon - SBA,report,Lisa Yowell,user,view
+Mortgage Finance Team Dashboards,dashboard,Aric Crouch,user,view
+Mortgage Finance Team Dashboards,dashboard,Cindy Levreault,user,view
+Mortgage Finance Team Dashboards,dashboard,Jason Whitmire,user,view
+Mortgage Finance Team Dashboards,dashboard,Kyle Roberts,user,view
+Mortgage Finance Team Dashboards,dashboard,Mike Coyne,user,view
+Mortgage Finance Lending,report,Michelle Senesoury,user,edit
+Mortgage Finance Lending,report,Correspondent Lending,role,view
+Mortgage Finance Lending,report,Correspondent Lending Team,role,view
+Ashley &amp; Stacy,report,Ashley Waldroup,user,manage
+Ashley &amp; Stacy,report,Jessica Clark,user,view
+Ashley &amp; Stacy,report,Kate Reagan,user,view
+Ashley &amp; Stacy,report,Nikunj Vashi,user,manage
+Ashley &amp; Stacy,report,Stacy Thornton,user,manage
+LOB Treasury Reports,report,Alex Holmes,user,view
+LOB Treasury Reports,report,Amy Lezon,user,view
+LOB Treasury Reports,report,Ana Chandler,user,view
+LOB Treasury Reports,report,Andrea Lawson,user,edit
+LOB Treasury Reports,report,Andrew Nesbitt,user,view
+LOB Treasury Reports,report,Brian Frank,user,view
+LOB Treasury Reports,report,Brook Silvestri,user,view
+LOB Treasury Reports,report,Carmen Skok,user,edit
+LOB Treasury Reports,report,Cheryl Henk,user,view
+LOB Treasury Reports,report,Cody Cannon,user,view
+LOB Treasury Reports,report,Curtis Burchard,user,view
+LOB Treasury Reports,report,David Fricke,user,view
+LOB Treasury Reports,report,Derek Blankenship,user,view
+LOB Treasury Reports,report,Elizabeth Falco,user,view
+LOB Treasury Reports,report,Elizabeth Hewitt,user,view
+LOB Treasury Reports,report,Gary Junek,user,view
+LOB Treasury Reports,report,Gregory Penn,user,view
+LOB Treasury Reports,report,James Sivco,user,view
+LOB Treasury Reports,report,Jamie Godfrey,user,view
+LOB Treasury Reports,report,Jereme Gooch,user,view
+LOB Treasury Reports,report,Jessica Clark,user,view
+LOB Treasury Reports,report,Jim Recer,user,view
+LOB Treasury Reports,report,Joel Landis,user,view
+LOB Treasury Reports,report,John Sarvadi,user,view
+LOB Treasury Reports,report,Kate Reagan,user,view
+LOB Treasury Reports,report,Katia Jahnke,user,view
+LOB Treasury Reports,report,Kinnali Jordan,user,view
+LOB Treasury Reports,report,Layne Nunes,user,view
+LOB Treasury Reports,report,Lester Keliher,user,view
+LOB Treasury Reports,report,Maggie Zaragoza,user,view
+LOB Treasury Reports,report,Marissa Ricci,user,view
+LOB Treasury Reports,report,Mary Redding,user,view
+LOB Treasury Reports,report,Melissa Abel,user,view
+LOB Treasury Reports,report,Norman Boone,user,view
+LOB Treasury Reports,report,Oscar Romero,user,view
+LOB Treasury Reports,report,Pam Cofer-Jones,user,edit
+LOB Treasury Reports,report,Paul Howell,user,view
+LOB Treasury Reports,report,Paula May,user,view
+LOB Treasury Reports,report,Preston Roush,user,view
+LOB Treasury Reports,report,Rick Rogers,user,view
+LOB Treasury Reports,report,Ruth Jacks,user,view
+LOB Treasury Reports,report,Ryan Wark,user,view
+LOB Treasury Reports,report,Salina Bensman,user,view
+LOB Treasury Reports,report,Sally Hazen,user,view
+LOB Treasury Reports,report,Shelly Vyers,user,view
+LOB Treasury Reports,report,Stacy Thornton,user,view
+LOB Treasury Reports,report,Susan Capps,user,view
+LOB Treasury Reports,report,Susan James,user,view
+LOB Treasury Reports,report,Thomas Seifert,user,view
+LOB Treasury Reports,report,Trey Spradlin,user,view
+LOB Treasury Reports,report,Ty Bretz,user,view
+LOB Treasury Reports,report,Vera Gebert,user,view
+LOB Treasury Reports,report,William Griffin,user,view
+LOB Treasury Reports,report,Houston Region &amp; SBA,role,view
+Credit Administration,report,Ryan Jones,user,edit
+Credit Administration,report,Tracy Jenkins,user,manage
+Sales Enablement Reports,report,Andrea Lawson,user,view
+Sales Enablement Reports,report,Marissa Ricci,user,manage
+Sales Enablement Reports,report,Pam Cofer-Jones,user,view
+Sales Enablement Reports,report,Scott Rylie,user,view
+Sales Enablement Reports,report,Trey Spradlin,user,view
+IRMA,report,Christopher Almance,user,edit
+IRMA,report,Kathy Colvard,user,view
+IRMA,report,Ross Peets,user,view
+IRMA,report,Shae White,user,edit
+IRMA,report,Tracy Jenkins,user,manage
+IRMA,report,IRMA Pilot Participants,group,view
+IRMA Dashboard,dashboard,Christopher Almance,user,edit
+IRMA Dashboard,dashboard,Kathy Colvard,user,view
+IRMA Dashboard,dashboard,Shae White,user,edit
+IRMA Dashboard,dashboard,Tracy Jenkins,user,manage
+IRMA Dashboard,dashboard,IRMA Pilot Participants,group,view
+Treasury Support Dashboard,dashboard,Ashlee Adams,user,manage
+Treasury Support Dashboard,dashboard,Jason Martinez,user,view
+Treasury Support Dashboard,dashboard,Julie Allen,user,view
+Treasury Support Dashboard,dashboard,Mai J Hoang,user,view
+Treasury Support Dashboard,dashboard,Veleka S Slocum,user,view
+Treasury Support Dashboard,dashboard,Treasury Client Support CSR,role,view
+Treasury Support Dashboard,dashboard,Treasury Client Support Mgr,role,view
+Treasury Support Dashboard,dashboard,Treasury Client Support Supervisor,role,view
+Treasury Support Dashboard,dashboard,Treasury Client Support Team,role,view
+TSA Reports,report,Alex Holmes,user,view
+TSA Reports,report,Andrea Lawson,user,view
+TSA Reports,report,Elizabeth Hewitt,user,view
+TSA Reports,report,Jamie Godfrey,user,view
+TSA Reports,report,Layne Nunes,user,view
+TSA Reports,report,Nikunj Vashi,user,manage
+TSA Reports,report,Pam Cofer-Jones,user,manage
+John Murphy,report,Derek Blankenship,user,view
+John Murphy,report,Faye Breeden,user,view
+John Murphy,report,Greg Lewis,user,view
+John Murphy,report,John Murphy,user,view
+John Murphy,report,Jorge Flores,user,view
+John Murphy,report,Mike Robnett,user,view
+John Murphy,report,Norman Boone,user,view
+John Murphy,report,Pam Cofer-Jones,user,view
+John Murphy,report,Robert Ross,user,view
+John Murphy,report,Susan Capps,user,view
+John Murphy,report,Todd Martin,user,view
+Mortgage Finance Lending Dashboards,dashboard,Becky Lottridge,user,view
+Mortgage Finance Lending Dashboards,dashboard,Brad Buchanan,user,view
+Mortgage Finance Lending Dashboards,dashboard,Kindra Miller,user,view
+Mortgage Finance Lending Dashboards,dashboard,Matthew Mead,user,view
+Mortgage Finance Lending Dashboards,dashboard,Michelle Senesoury,user,view
+Mortgage Finance Lending Dashboards,dashboard,Nathan Rohrmeier,user,view
+Mortgage Finance Lending Dashboards,dashboard,Page Woodall,user,view
+Mortgage Finance Lending Dashboards,dashboard,Paul Champagne,user,view
+Mortgage Finance Lending Dashboards,dashboard,Robert Favicchio,user,view
+Mortgage Finance Lending Dashboards,dashboard,Shannon Smith,user,view
+Mortgage Finance Lending Dashboards,dashboard,Susan King,user,view
+Mortgage Finance Lending DB Reports,report,Becky Lottridge,user,view
+Mortgage Finance Lending DB Reports,report,Brad Buchanan,user,view
+Mortgage Finance Lending DB Reports,report,Kindra Miller,user,view
+Mortgage Finance Lending DB Reports,report,Matthew Mead,user,view
+Mortgage Finance Lending DB Reports,report,Michelle Senesoury,user,edit
+Mortgage Finance Lending DB Reports,report,Nathan Rohrmeier,user,view
+Mortgage Finance Lending DB Reports,report,Page Woodall,user,view
+Mortgage Finance Lending DB Reports,report,Paul Champagne,user,view
+Mortgage Finance Lending DB Reports,report,Robert Favicchio,user,view
+Mortgage Finance Lending DB Reports,report,Shannon Smith,user,view
+Mortgage Finance Lending DB Reports,report,Susan King,user,view
+Marissa Working Folder,report,Marissa Ricci,user,manage
+Marissa Working Folder,report,Stacy Thornton,user,view
+John Murphy DB Reports,report,Bryan Ware,user,view
+John Murphy DB Reports,report,Christina Matthews,user,view
+John Murphy DB Reports,report,Derek Blankenship,user,view
+John Murphy DB Reports,report,Erin Ketonen,user,view
+John Murphy DB Reports,report,Faye Breeden,user,view
+John Murphy DB Reports,report,Greg Lewis,user,view
+John Murphy DB Reports,report,John Murphy,user,view
+John Murphy DB Reports,report,Jorge Flores,user,view
+John Murphy DB Reports,report,Mark Fawver,user,view
+John Murphy DB Reports,report,Mike Robnett,user,view
+John Murphy DB Reports,report,Norman Boone,user,view
+John Murphy DB Reports,report,Pam Cofer-Jones,user,view
+John Murphy DB Reports,report,Robert Ross,user,view
+John Murphy DB Reports,report,Sergio Tamayo,user,view
+John Murphy DB Reports,report,Susan Capps,user,view
+John Murphy DB Reports,report,Todd Martin,user,view
+John Murphy Dashboards,dashboard,Bryan Ware,user,view
+John Murphy Dashboards,dashboard,Christina Matthews,user,view
+John Murphy Dashboards,dashboard,Derek Blankenship,user,view
+John Murphy Dashboards,dashboard,Erin Ketonen,user,view
+John Murphy Dashboards,dashboard,Faye Breeden,user,view
+John Murphy Dashboards,dashboard,Greg Lewis,user,view
+John Murphy Dashboards,dashboard,John Murphy,user,view
+John Murphy Dashboards,dashboard,Jorge Flores,user,view
+John Murphy Dashboards,dashboard,Mark Fawver,user,view
+John Murphy Dashboards,dashboard,Mike Robnett,user,view
+John Murphy Dashboards,dashboard,Norman Boone,user,view
+John Murphy Dashboards,dashboard,Pam Cofer-Jones,user,view
+John Murphy Dashboards,dashboard,Robert Ross,user,view
+John Murphy Dashboards,dashboard,Sergio Tamayo,user,view
+John Murphy Dashboards,dashboard,Susan Capps,user,view
+John Murphy Dashboards,dashboard,Todd Martin,user,view
+Treasury Operations Daily Dashboard,dashboard,Ashlee Adams,user,manage
+Treasury Operations Daily Dashboard,dashboard,Jason Martinez,user,view
+Treasury Operations Daily Dashboard,dashboard,John Parker,user,view
+Treasury Operations Daily Dashboard,dashboard,Quentin Whitfield,user,view
+Treasury Operations Daily Dashboard,dashboard,Veleka S Slocum,user,view
+Treasury Operations Daily Dashboard Rep,report,Ashlee Adams,user,manage
+Treasury Operations Daily Dashboard Rep,report,Jason Martinez,user,view
+Treasury Operations Daily Dashboard Rep,report,Veleka S Slocum,user,view
+North Texas TM Dashboards,dashboard,Alex Holmes,user,view
+North Texas TM Dashboards,dashboard,Amy Lezon,user,view
+North Texas TM Dashboards,dashboard,Elizabeth Hewitt,user,view
+North Texas TM Dashboards,dashboard,Jamie Godfrey,user,view
+North Texas TM Dashboards,dashboard,Layne Nunes,user,edit
+North Texas TM Dashboards,dashboard,Mary Redding,user,view
+North Texas TM Dashboards,dashboard,Pam Cofer-Jones,user,edit
+North Texas TM Reports,report,Alex Holmes,user,view
+North Texas TM Reports,report,Amy Lezon,user,view
+North Texas TM Reports,report,Elizabeth Falco,user,view
+North Texas TM Reports,report,Jamie Godfrey,user,view
+North Texas TM Reports,report,Layne Nunes,user,edit
+North Texas TM Reports,report,Mary Redding,user,view
+North Texas TM Reports,report,Pam Cofer-Jones,user,edit
+Marissa &amp; Scott Folder,report,Marissa Ricci,user,manage
+Marissa &amp; Scott Folder,report,Scott Rylie,user,view
+Marissa &amp; Scott Folder,report,Trey Spradlin,user,view
+Peter Stringer Group,report,Nikunj Vashi,user,manage
+Peter Stringer Group,report,Peter Stringer,user,manage
+Correspondent Lending -  Collateral,report,Nikunj Vashi,user,view
+Correspondent Lending -  Collateral,report,CL Collateral Mgmt,group,view
+Correspondent Lending - Collateral,dashboard,Ashlee Adams,user,manage
+Correspondent Lending - Collateral,dashboard,CL Collateral Mgmt,group,view
+LinkedIn Reports,report,Cynthia Rodgers,user,manage
+LinkedIn Reports,report,Marketing,role,view
+LinkedIn Reports,report,Marketing Team,role,view
+LinkedIn Reports,report,Sales Enablement,role,view
+Pams Treasury Reports,report,Brandon Troster,user,view
+Pams Treasury Reports,report,Kathy Colvard,user,view
+Pams Treasury Reports,report,Pam Cofer-Jones,user,edit
+Trey&#39;s Team Reports,report,Paula May,user,view
+Trey&#39;s Team Reports,report,Ruth Jacks,user,view
+Trey&#39;s Team Reports,report,Trey Spradlin,user,manage
+Trey&#39;s Team Dashboards,dashboard,Trey Spradlin,user,manage
+National Sales Dashboard Reports,report,Alex Holmes,user,view
+National Sales Dashboard Reports,report,Amy McLean,user,view
+National Sales Dashboard Reports,report,Bart McCain,user,view
+National Sales Dashboard Reports,report,Brandon Troster,user,manage
+National Sales Dashboard Reports,report,Brook Silvestri,user,view
+National Sales Dashboard Reports,report,Bryan Ware,user,view
+National Sales Dashboard Reports,report,Christina Matthews,user,view
+National Sales Dashboard Reports,report,Derek Blankenship,user,view
+National Sales Dashboard Reports,report,Elizabeth Munoz,user,view
+National Sales Dashboard Reports,report,Erin Ketonen,user,view
+National Sales Dashboard Reports,report,John Murphy,user,view
+National Sales Dashboard Reports,report,John Sullivan,user,view
+National Sales Dashboard Reports,report,Jorge Flores,user,view
+National Sales Dashboard Reports,report,Julie Guyton,user,view
+National Sales Dashboard Reports,report,Lo Andrews,user,view
+National Sales Dashboard Reports,report,Mark Fawver,user,view
+National Sales Dashboard Reports,report,Mike Robnett,user,view
+National Sales Dashboard Reports,report,Norman Boone,user,view
+National Sales Dashboard Reports,report,Pam Cofer-Jones,user,view
+National Sales Dashboard Reports,report,Peter Stringer,user,view
+National Sales Dashboard Reports,report,Philip Toscano,user,view
+National Sales Dashboard Reports,report,Robert Ross,user,view
+National Sales Dashboard Reports,report,Ruben Bela,user,view
+National Sales Dashboard Reports,report,Sally Hazen,user,view
+National Sales Dashboard Reports,report,Susan Capps,user,view
+National Sales Dashboard Reports,report,Todd Martin,user,view
+Deployments,report,Release Management,user,edit
+Deployments,report,Sanket Vaidya,user,edit
+Deployments,report,Trey Spradlin,user,edit
+SFDC Support,report,Tracy Jenkins,user,view
+SFDC Support,report,Trey Spradlin,user,manage
+Rick Rogers,report,Pam Cofer-Jones,user,edit
+Rick Rogers,report,Rick Rogers,user,view
+Community Development,report,Community Development,role,view
+Community Development,dashboard,Community Development,role,view
+Laura&#39;s Reports,report,Laura Galindo,user,view
+Ruth Jacks,report,Bill Wilson,user,view
+Ruth Jacks,report,Jack Nunnery,user,view
+Ruth Jacks,report,Jim Recer,user,view
+Ruth Jacks,report,John Sarvadi,user,view
+Ruth Jacks,report,Vince Ackerson,user,view
+Derek Blankenship Reports,report,Derek Blankenship,user,view
+DocuSign Reports,report,Ashlee Adams,user,manage
+DocuSign Dashboard,dashboard,Ashlee Adams,user,manage
+nCino: Process Overview,report,All Internal Users,organization,view
+Public Finance,report,Public Finance,role,view
+Account Analysis/Revenue Recognition,report,Ashlee Adams,user,manage
+Account Analysis/Revenue Recognition,report,Account Analysis/Revenue Recognition,role,view
+Account Analysis/Revenue Recognition,report,Deposit Operations,role,view
+Account Analysis/Revenue Recognition,report,Texas Capital Bank,role,view
+Compliance Templates,report,Sanket Vaidya,user,manage
+Compliance Templates,report,Compliance,group,view
+Loan Reports,report,All Internal Users,organization,view
+Loan Reports,report,All Customer Portal Users,allcspusers,view
+Loan Reports,report,Sanket Vaidya,user,manage
+Loan Operations Reports,report,Ashlee Adams,user,manage
+Loan Operations Reports,report,Compliance,role,view
+Loan Operations Reports,report,Loan Operations,roleandsubordinatesinternal,view
+Treasury Operations,report,Adrian Carter,user,view
+Treasury Operations,report,Allen McIver,user,view
+Treasury Operations,report,Blake Ward,user,view
+Treasury Operations,report,Jason Nelson,user,view
+Treasury Operations,report,John Parker,user,view
+Treasury Operations,report,Nick Buluran,user,view
+Treasury Operations,report,Pam Cofer-Jones,user,view
+Treasury Operations,report,Quentin Whitfield,user,view
+Treasury Operations,report,Tony Bui,user,view
+Treasury Operations,report,Wes Weaver,user,view
+Treasury Operations,report,ACH Department,role,view
+Treasury Operations,report,Complex Core CSR,role,view
+Treasury Operations,report,Complex Core Mgr,role,view
+Treasury Operations,report,Compliance,role,view
+Treasury Operations,report,Deposit Ops General,role,view
+Treasury Operations,report,Funds Management,role,view
+Treasury Operations,report,Operational Administration,role,view
+Treasury Operations,report,Specialized Deposits CSR,role,view
+Treasury Operations,report,Specialized Deposits Mgr,role,view
+Treasury Operations,report,Treasury Client Support Supervisor,role,view
+Treasury Operations,report,Treasury Client Support Team,role,view
+Treasury Operations,report,Treasury Operations,role,view
+Treasury Operations,report,Treasury Special Projects Mgr,role,view
+Treasury Operations,report,Treasury Operations,roleandsubordinatesinternal,view
+Treasury Operations,report,Treasury Operations Manager,roleandsubordinatesinternal,view
+Treasury Operations Mgr &amp; Exec Reports,report,Leslie Marsh,user,view
+Treasury Operations Mgr &amp; Exec Reports,report,Sanket Vaidya,user,manage
+Treasury Operations Mgr &amp; Exec Reports,report,Bank Direct Manager,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Branch Banking Mgr,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Client Experience,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Complex Core Mgr,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Compliance,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Deposit Doc Review Mgr,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Operational Administration,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Signature Services,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Specialized Deposits Mgr,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Texas Capital Bank,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Treasury Client Support Supervisor,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Treasury Onboarding Supervisor,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Treasury Onboarding Team,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Treasury Operations Manager,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,Treasury Special Projects Mgr,role,view
+Treasury Operations Mgr &amp; Exec Reports,report,US Trustee Bankruptcy Mgr,role,view
+Treasury Success Metrics,report,Ashlee Adams,user,manage
+Treasury Success Metrics,report,Faith Nava,user,view
+Treasury Success Metrics,report,Pam Cofer-Jones,user,view
+Treasury Success Metrics,report,Tim Graves,user,view
+Treasury Success Metrics,report,ACH Department,role,view
+Treasury Success Metrics,report,Austin,role,view
+Treasury Success Metrics,report,Bank Direct Manager,role,view
+Treasury Success Metrics,report,Client Onboarding &amp; Service Delivery,role,view
+Treasury Success Metrics,report,Compliance,role,view
+Treasury Success Metrics,report,Deposit Operations,role,view
+Treasury Success Metrics,report,EPSI,role,view
+Treasury Success Metrics,report,Fort Worth,role,view
+Treasury Success Metrics,report,Houston Region &amp; SBA,role,view
+Treasury Success Metrics,report,John Sarvadi,role,view
+Treasury Success Metrics,report,Mark Johnson,role,view
+Treasury Success Metrics,report,Mark Johnson_1,role,view
+Treasury Success Metrics,report,Operational Administration,role,view
+Treasury Success Metrics,report,Sales &amp; Marketing,role,view
+Treasury Success Metrics,report,San Antonio,role,view
+Treasury Success Metrics,report,Signature Services,role,view
+Treasury Success Metrics,report,Texas Capital Bank,role,view
+Treasury Success Metrics,report,Treasury Operations,role,view
+Treasury Success Metrics,report,Treasury Operations Manager,role,view
+Treasury Success Metrics,report,Treasury Special Projects Mgr,role,view
+Underwriting Dashboard Reports,report,Ashlee Adams,user,manage
+Underwriting Dashboard Reports,report,Complex Core CSR,role,view
+Underwriting Dashboard Reports,report,Compliance,role,view
+Underwriting Dashboard Reports,report,Credit,role,view
+Underwriting Dashboard Reports,report,Credit &amp; Underwriting,role,view
+Underwriting Dashboard Reports,report,Credit Administration Manager,role,view
+Underwriting Dashboard Reports,report,Credit Administration Rep,role,view
+Underwriting Dashboard Reports,report,Credit Administration Team,role,view
+Underwriting Dashboard Reports,report,Credit Underwriting Rep 1,role,view
+Underwriting Dashboard Reports,report,Credit Underwriting Rep 2,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,ACH Department,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Bank Direct Manager,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Branch Banking Mgr,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Client Experience,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Complex Core Mgr,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Compliance,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Deposit Doc Review Mgr,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Operational Administration,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Signature Services,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Specialized Deposits Mgr,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Texas Capital Bank,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Treasury Client Support Supervisor,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Treasury Onboarding Supervisor,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Treasury Operations,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Treasury Operations Manager,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,Treasury Special Projects Mgr,role,view
+Onboarding Mgr and Exec Dashboard,dashboard,US Trustee Bankruptcy Mgr,role,view
+Onboarding Team Dashboard,dashboard,Jason Martinez,user,view
+Onboarding Team Dashboard,dashboard,Mai J Hoang,user,view
+Onboarding Team Dashboard,dashboard,Veleka S Slocum,user,view
+Onboarding Team Dashboard,dashboard,ACH Department,role,view
+Onboarding Team Dashboard,dashboard,Complex Core CSR,role,view
+Onboarding Team Dashboard,dashboard,Complex Core Mgr,role,view
+Onboarding Team Dashboard,dashboard,Compliance,role,view
+Onboarding Team Dashboard,dashboard,Deposit Ops General,role,view
+Onboarding Team Dashboard,dashboard,Funds Management,role,view
+Onboarding Team Dashboard,dashboard,Specialized Deposits CSR,role,view
+Onboarding Team Dashboard,dashboard,Specialized Deposits Mgr,role,view
+Onboarding Team Dashboard,dashboard,Treasury Client Support Supervisor,role,view
+Onboarding Team Dashboard,dashboard,Treasury Client Support Team,role,view
+Onboarding Team Dashboard,dashboard,Treasury Onboarding Supervisor,role,view
+Onboarding Team Dashboard,dashboard,Treasury Onboarding Team,role,view
+Onboarding Team Dashboard,dashboard,Treasury Operations,roleandsubordinatesinternal,view
+Onboarding Team Dashboard,dashboard,Treasury Operations Manager,roleandsubordinatesinternal,view
+Loan Operations Dashboard,dashboard,Ashlee Adams,user,manage
+Loan Operations Dashboard,dashboard,Compliance,role,view
+Loan Operations Dashboard,dashboard,Loan Operations,roleandsubordinatesinternal,view
+Treasury Success Metrics Dashboard,dashboard,Ashlee Adams,user,manage
+Treasury Success Metrics Dashboard,dashboard,Faith Nava,user,view
+Treasury Success Metrics Dashboard,dashboard,Isa Eastland,user,view
+Treasury Success Metrics Dashboard,dashboard,Pam Cofer-Jones,user,view
+Treasury Success Metrics Dashboard,dashboard,Tim Graves,user,view
+Treasury Success Metrics Dashboard,dashboard,ACH Department,role,view
+Treasury Success Metrics Dashboard,dashboard,Austin,role,view
+Treasury Success Metrics Dashboard,dashboard,Bank Direct Manager,role,view
+Treasury Success Metrics Dashboard,dashboard,Client Onboarding &amp; Service Delivery,role,view
+Treasury Success Metrics Dashboard,dashboard,Compliance,role,view
+Treasury Success Metrics Dashboard,dashboard,Deposit Operations,role,view
+Treasury Success Metrics Dashboard,dashboard,EPSI,role,view
+Treasury Success Metrics Dashboard,dashboard,Fort Worth,role,view
+Treasury Success Metrics Dashboard,dashboard,Houston Region &amp; SBA,role,view
+Treasury Success Metrics Dashboard,dashboard,John Sarvadi,role,view
+Treasury Success Metrics Dashboard,dashboard,Mark Johnson,role,view
+Treasury Success Metrics Dashboard,dashboard,Mark Johnson_1,role,view
+Treasury Success Metrics Dashboard,dashboard,Operational Administration,role,view
+Treasury Success Metrics Dashboard,dashboard,Sales &amp; Marketing,role,view
+Treasury Success Metrics Dashboard,dashboard,San Antonio,role,view
+Treasury Success Metrics Dashboard,dashboard,Signature Services,role,view
+Treasury Success Metrics Dashboard,dashboard,Texas Capital Bank,role,view
+Treasury Success Metrics Dashboard,dashboard,Treasury Operations,role,view
+Treasury Success Metrics Dashboard,dashboard,Treasury Operations Manager,role,view
+Treasury Success Metrics Dashboard,dashboard,Treasury Special Projects Mgr,role,view
+Dallas Commercial Dashboards,dashboard,Jesse Jackson,user,view
+Dallas Commercial Dashboards,dashboard,Mike Robnett,user,view
+Dallas Commercial Dashboards,dashboard,Pam Cofer-Jones,user,view
+Dallas Commercial Dashboards,dashboard,Randy Lasley,user,view
+Dallas Commercial Dashboards,dashboard,Stacy Thornton,user,view
+Dallas Commercial Dashboards,dashboard,Susan James,user,view
+Dallas Commercial Dashboards,dashboard,Dallas Commercial,role,view
+Dallas Commercial Dashboards,dashboard,Dallas Commercial 1,role,view
+Dallas Commercial Dashboards,dashboard,Dallas Commercial 1 Team,role,view
+Dallas Commercial Dashboards,dashboard,Dallas Commercial 2,role,view
+Dallas Commercial Dashboards,dashboard,Dallas Commercial 2 Team,role,view
+Dallas Commercial Dashboards,dashboard,Dallas Commercial 3,role,view
+Correspondent Lending,report,Correspondent Lending,roleandsubordinates,view
+Correspondent Lending,report,Correspondent Lending Team,roleandsubordinates,view
+SBA Team - Dashboards,dashboard,John Gannon,user,view
+SBA Team - Dashboards,dashboard,Lisa Yowell,user,view
+SBA Team - Dashboards,dashboard,Marissa Ricci,user,view
+SBA Team - Dashboards,dashboard,Nikunj Vashi,user,view
+SBA Team - Dashboards,dashboard,Pam Cofer-Jones,user,view
+SBA Team - Dashboards,dashboard,Credit &amp; Underwriting,role,view
+SBA Team - Dashboards,dashboard,Houston Region &amp; SBA,role,view
+SBA Team - Dashboards,dashboard,Houston SBA,role,view
+SBA Team - Dashboards,dashboard,Houston SBA Team,role,view
+SBA Team - DB Reports,report,John Gannon,user,view
+SBA Team - DB Reports,report,Lisa Yowell,user,view
+SBA Team - DB Reports,report,Marc Daigle,user,view
+SBA Team - DB Reports,report,Nikunj Vashi,user,view
+SBA Team - DB Reports,report,Ross Peets,user,view
+SBA Team - DB Reports,report,Credit &amp; Underwriting,role,view
+SBA Team - DB Reports,report,Houston Region &amp; SBA,role,view
+SBA Team - DB Reports,report,Houston SBA,role,view
+SBA Team - DB Reports,report,Houston SBA Team,role,view
+Treasury Support,report,Andrea Molina,user,view
+Treasury Support,report,Brandon Nalley,user,view
+Treasury Support,report,Chris Perez,user,view
+Treasury Support,report,Diana Aranda,user,view
+Treasury Support,report,Jason Martinez,user,view
+Treasury Support,report,Julie Allen,user,view
+Treasury Support,report,Linda Gonzalez,user,view
+Treasury Support,report,Mai J Hoang,user,view
+Treasury Support,report,Margaret Wisniewski,user,view
+Treasury Support,report,Michael Serpas,user,view
+Treasury Support,report,Rahsheila Robertson,user,view
+Treasury Support,report,Tamara Lacy,user,view
+Treasury Support,report,Veleka S Slocum,user,view
+Collin McCann,report,Marissa Ricci,user,edit
+Mike Robnett,report,Faye Breeden,user,view
+Mike Robnett,report,Mike Robnett,user,view
+Mike Robnett,report,Nikunj Vashi,user,manage
+Mike Robnett,report,Pam Cofer-Jones,user,view
+Mike Robnett,report,Stacy Thornton,user,view
+Jesse&#39;s Team Reports,report,Jesse Jackson,user,view
+Jesse&#39;s Team Reports,report,Mike Robnett,user,view
+Jesse&#39;s Team Reports,report,Nikunj Vashi,user,manage
+Jesse&#39;s Team Reports,report,Pam Cofer-Jones,user,edit
+Jesse&#39;s Team Reports,report,Randy Lasley,user,view
+Jesse&#39;s Team Reports,report,Susan James,user,edit
+Shared Lending,report,Andrew Nesbitt,user,edit
+Shared Lending,report,James Sivco,user,view
+Shared Lending,report,Paula May,user,edit
+Credit Reports,report,Andrew Nesbitt,user,view
+Credit Reports,report,Marissa Ricci,user,manage
+Credit Reports,report,Paula May,user,view
+Credit Reports,report,Ryan Jones,user,view
+Hartsfield,report,Ashley Waldroup,user,view
+Hartsfield,report,Stacy Thornton,user,view
+Hartsfield,report,Tracy Jenkins,user,manage
+Hartsfield,report,Dallas Region &amp; Public Finance,role,view
+Dallas Corporate Corporate,report,Benjamin Gunnels,user,view
+Dallas Corporate Corporate,report,Bill Rolley,user,view
+Dallas Corporate Corporate,report,David Felan,user,view
+Dallas Corporate Corporate,report,Jessica Clark,user,view
+Dallas Corporate Corporate,report,Jody Hodges,user,view
+Dallas Corporate Corporate,report,Josh Smith,user,view
+Dallas Corporate Corporate,report,Kate Reagan,user,view
+Dallas Corporate Corporate,report,Matt Love,user,view
+Dallas Corporate Corporate,report,Paul Howell,user,view
+Dallas Corporate Corporate,report,Rick Rogers,user,view
+Dallas Corporate Corporate,report,Shae White,user,manage
+Dallas Corporate Corporate,report,Shelly Vyers,user,view
+Dallas Corporate Corporate,report,Dallas Corporate - Corporate,role,view
+Signature Services,report,Faith Nava,user,view
+Signature Services,report,Isa Eastland,user,view
+Signature Services,report,Pam Cofer-Jones,user,view
+Signature Services,report,Shae White,user,manage
+Signature Services,report,Tim Graves,user,view
+Signature Services,report,Treasury Operations,role,view
+Signature Services,report,Signature Services,roleandsubordinates,view
+Recer Dashboards Folder,dashboard,Andrew Nesbitt,user,view
+Recer Dashboards Folder,dashboard,Marissa Ricci,user,view
+Recer Dashboards Folder,dashboard,Pam Cofer-Jones,user,view
+Recer Dashboards Folder,dashboard,Paula May,user,view
+Recer Dashboards Folder,dashboard,Ruth Jacks,user,view
+Recer Dashboards Folder,dashboard,Trey Spradlin,user,view
+Recer Dashboard Reports,report,Andrew Nesbitt,user,view
+Recer Dashboard Reports,report,Marissa Ricci,user,view
+Recer Dashboard Reports,report,Pam Cofer-Jones,user,view
+Recer Dashboard Reports,report,Paula May,user,edit
+Recer Dashboard Reports,report,Ruth Jacks,user,view
+Recer Dashboard Reports,report,Trey Spradlin,user,view
+Treasury Onboarding Reports,report,Ashlee Adams,user,manage
+Treasury Onboarding Reports,report,Blake Ward,user,view
+Treasury Onboarding Reports,report,Tim Graves,user,view
+Treasury Onboarding Reports,report,Veleka S Slocum,user,view
+Treasury Onboarding Reports,report,ACH Department,role,view
+Treasury Onboarding Reports,report,Compliance,role,view
+Treasury Onboarding Reports,report,Funds Management,role,view
+Treasury Onboarding Reports,report,Treasury Client Support CSR,role,view
+Treasury Onboarding Reports,report,Treasury Client Support Mgr,role,view
+Treasury Onboarding Reports,report,Treasury Client Support Supervisor,role,view
+Treasury Onboarding Reports,report,Treasury Client Support Team,role,view
+Treasury Onboarding Reports,report,Treasury Onboarding Supervisor,role,view
+Treasury Onboarding Reports,report,Treasury Onboarding Team,role,view
+Erin Davis Reports,report,Alex Holmes,user,view
+Erin Davis Reports,report,Pam Cofer-Jones,user,view
+San Antonio Commercial Banking,report,Paula May,user,view
+San Antonio Commercial Banking,report,Tracy Jenkins,user,manage
+San Antonio Commercial Banking,report,San Antonio Commercial,role,manage
+San Antonio Commercial Banking,report,San Antonio Commercial 1,role,edit
+San Antonio Commercial Banking,report,San Antonio Commercial 2,role,edit
+San Antonio Commercial Banking,report,San Antonio Commercial 2 Team,role,edit
+San Antonio Commercial Banking,report,Commercial/Corporate San Antonio,roleandsubordinatesinternal,view
+National Sales Reports,report,Alex Holmes,user,view
+National Sales Reports,report,Amy McLean,user,view
+National Sales Reports,report,Bart McCain,user,view
+National Sales Reports,report,Brandon Troster,user,edit
+National Sales Reports,report,Brook Silvestri,user,view
+National Sales Reports,report,Bryan Ware,user,view
+National Sales Reports,report,Christina Matthews,user,view
+National Sales Reports,report,Derek Blankenship,user,view
+National Sales Reports,report,Elizabeth Munoz,user,view
+National Sales Reports,report,Greg Lewis,user,view
+National Sales Reports,report,John Sullivan,user,view
+National Sales Reports,report,Julie Guyton,user,view
+National Sales Reports,report,Lo Andrews,user,view
+National Sales Reports,report,Mark Fawver,user,view
+National Sales Reports,report,Norman Boone,user,view
+National Sales Reports,report,Pam Cofer-Jones,user,view
+National Sales Reports,report,Peter Stringer,user,view
+National Sales Reports,report,Philip Toscano,user,view
+National Sales Reports,report,Robert Ross,user,view
+National Sales Reports,report,Ruben Bela,user,view
+National Sales Reports,report,Susan Capps,user,view
+National Sales Reports,report,Todd Martin,user,view
+National Sales Dashboard,dashboard,Alex Holmes,user,view
+National Sales Dashboard,dashboard,Amy McLean,user,view
+National Sales Dashboard,dashboard,Bart McCain,user,view
+National Sales Dashboard,dashboard,Brandon Troster,user,edit
+National Sales Dashboard,dashboard,Brian Jones,user,view
+National Sales Dashboard,dashboard,Brook Silvestri,user,view
+National Sales Dashboard,dashboard,Bryan Ware,user,view
+National Sales Dashboard,dashboard,Christina Matthews,user,view
+National Sales Dashboard,dashboard,Derek Blankenship,user,view
+National Sales Dashboard,dashboard,Elizabeth Munoz,user,view
+National Sales Dashboard,dashboard,Erin Ketonen,user,view
+National Sales Dashboard,dashboard,Greg Lewis,user,view
+National Sales Dashboard,dashboard,Jeff Wagner,user,view
+National Sales Dashboard,dashboard,John Murphy,user,view
+National Sales Dashboard,dashboard,John Sullivan,user,view
+National Sales Dashboard,dashboard,Jorge Flores,user,view
+National Sales Dashboard,dashboard,Julie Guyton,user,view
+National Sales Dashboard,dashboard,Kathy Colvard,user,view
+National Sales Dashboard,dashboard,Lo Andrews,user,view
+National Sales Dashboard,dashboard,Mark Fawver,user,view
+National Sales Dashboard,dashboard,Mike Robnett,user,view
+National Sales Dashboard,dashboard,Norman Boone,user,view
+National Sales Dashboard,dashboard,Pam Cofer-Jones,user,view
+National Sales Dashboard,dashboard,Peter Stringer,user,view
+National Sales Dashboard,dashboard,Philip Toscano,user,view
+National Sales Dashboard,dashboard,Robert Ross,user,view
+National Sales Dashboard,dashboard,Ruben Bela,user,view
+National Sales Dashboard,dashboard,Russ Guess,user,view
+National Sales Dashboard,dashboard,Sally Hazen,user,view
+National Sales Dashboard,dashboard,Scott Callahan,user,view
+National Sales Dashboard,dashboard,Susan Capps,user,view
+National Sales Dashboard,dashboard,Todd Martin,user,view
+National Sales Dashboard,dashboard,Broker Dealer Team,roleandsubordinates,view
+Financial Services DB,dashboard,Brook Silvestri,user,view
+Financial Services DB,dashboard,Derek Blankenship,user,view
+Financial Services DB,dashboard,Jeff Wagner,user,view
+Financial Services DB,dashboard,Lo Andrews,user,view
+Financial Services DB,dashboard,Nikunj Vashi,user,manage
+Financial Services DB,dashboard,Pam Cofer-Jones,user,view
+Financial Services DB,dashboard,Peter Stringer,user,view
+Financial Services DB,dashboard,Sally Hazen,user,view
+Financial Services DB,dashboard,Susan Capps,user,manage
+Collin &amp; Marissa Working Folder,report,Marissa Ricci,user,manage
+Corporate Investments Dashboard,dashboard,John Sullivan,user,view
+Corporate Investments Dashboard,dashboard,Julie Guyton,user,view
+Corporate Investments Dashboard,dashboard,Pam Cofer-Jones,user,manage
+Corporate Investments Dashboard,dashboard,Ruben Bela,user,view
+Corporate Investments Dashboard Reports,report,John Sullivan,user,view
+Corporate Investments Dashboard Reports,report,Julie Guyton,user,view
+Corporate Investments Dashboard Reports,report,Pam Cofer-Jones,user,manage
+Corporate Investments Dashboard Reports,report,Ruben Bela,user,view
+SBA Team Production Review Reports,report,Nikunj Vashi,user,manage
+SBA Team Production Review DB,dashboard,Nikunj Vashi,user,manage
+Derivatives,report,Ashlee Adams,user,manage
+Derivatives,report,Heather Simms,user,view
+Derivatives,report,Steve Shipley,user,edit
+Collin Reports for Vince,report,Rachana Manvi,user,view
+Jason Whitmire,report,Cindy Levreault,user,view
+Jason Whitmire,report,Jason Whitmire,user,view
+Escrow Dashboard Reports,report,Ashlee Adams,user,manage
+Escrow Dashboard Reports,report,Escrow,role,view
+Escrow Dashboard,dashboard,Ashlee Adams,user,manage
+Escrow Dashboard,dashboard,Escrow,role,view
+Andrew &amp; Marissa Working Folder,report,Andrew Nesbitt,user,edit
+Andrew &amp; Marissa Working Folder,report,Marissa Ricci,user,manage
+Wilson T&amp;L Dashboard,dashboard,Maggie Zaragoza,user,view
+Wilson T&amp;L Dashboard,dashboard,Marissa Ricci,user,view
+Wilson T&amp;L Dashboard,dashboard,Nikunj Vashi,user,manage
+Wilson T&amp;L Dashboard,dashboard,Pam Cofer-Jones,user,view
+Wilson T&amp;L Dashboard,dashboard,Ruth Jacks,user,view
+Wilson T&amp;L Dashboard,dashboard,Trey Spradlin,user,view
+Wilson T&amp;L Reports,report,Maggie Zaragoza,user,view
+Wilson T&amp;L Reports,report,Marissa Ricci,user,view
+Wilson T&amp;L Reports,report,Nikunj Vashi,user,manage
+Wilson T&amp;L Reports,report,Pam Cofer-Jones,user,view
+Wilson T&amp;L Reports,report,Ruth Jacks,user,view
+Wilson T&amp;L Reports,report,Trey Spradlin,user,view
+Hall T&amp;L Reports,report,Maggie Zaragoza,user,view
+Hall T&amp;L Reports,report,Marissa Ricci,user,view
+Hall T&amp;L Reports,report,Nikunj Vashi,user,manage
+Hall T&amp;L Reports,report,Pam Cofer-Jones,user,view
+Hall T&amp;L Reports,report,Ruth Jacks,user,view
+Hall T&amp;L Reports,report,Trey Spradlin,user,view
+Hall T&amp;L Dashboard,dashboard,Maggie Zaragoza,user,view
+Hall T&amp;L Dashboard,dashboard,Marissa Ricci,user,view
+Hall T&amp;L Dashboard,dashboard,Nikunj Vashi,user,manage
+Hall T&amp;L Dashboard,dashboard,Pam Cofer-Jones,user,view
+Hall T&amp;L Dashboard,dashboard,Ruth Jacks,user,view
+Hall T&amp;L Dashboard,dashboard,Trey Spradlin,user,view
+Sarvadi T&amp;L Reports,report,Andrea Lawson,user,view
+Sarvadi T&amp;L Reports,report,James Sivco,user,view
+Sarvadi T&amp;L Reports,report,Jessica Clark,user,view
+Sarvadi T&amp;L Reports,report,Layne Nunes,user,view
+Sarvadi T&amp;L Reports,report,Marissa Ricci,user,view
+Sarvadi T&amp;L Reports,report,Nikunj Vashi,user,manage
+Sarvadi T&amp;L Reports,report,Pam Cofer-Jones,user,view
+Sarvadi T&amp;L Reports,report,Paul Howell,user,view
+Sarvadi T&amp;L Reports,report,Ruth Jacks,user,view
+Sarvadi T&amp;L Reports,report,Trey Spradlin,user,view
+Sarvadi T&amp;L Reports,report,William Griffin,user,view
+Sarvadi T&amp;L Dashboard,dashboard,Andrea Lawson,user,view
+Sarvadi T&amp;L Dashboard,dashboard,James Sivco,user,view
+Sarvadi T&amp;L Dashboard,dashboard,Jessica Clark,user,view
+Sarvadi T&amp;L Dashboard,dashboard,Layne Nunes,user,view
+Sarvadi T&amp;L Dashboard,dashboard,Marissa Ricci,user,view
+Sarvadi T&amp;L Dashboard,dashboard,Nikunj Vashi,user,manage
+Sarvadi T&amp;L Dashboard,dashboard,Paul Howell,user,view
+Sarvadi T&amp;L Dashboard,dashboard,Ruth Jacks,user,view
+Sarvadi T&amp;L Dashboard,dashboard,Trey Spradlin,user,view
+Sarvadi T&amp;L Dashboard,dashboard,William Griffin,user,view
+Nikunj DB,dashboard,Nikunj Vashi,user,manage
+Nikunj DB,dashboard,Paul Howell,user,view
+Nikunj DB,dashboard,Preston Roush,user,view
+Nikunj DB,dashboard,Stacy Thornton,user,view
+DAB Reporting,report,Cynthia Rodgers,user,manage
+DAB Reporting,report,Richard Pugh,user,view
+Prospect Development,report,Shae White,user,edit
+Prospect Development,report,Tracy Jenkins,user,edit
+1. My Prospecting Dashboard,dashboard,All Internal Users,organization,view
+1. My Prospecting Dashboard,dashboard,Business Development,group,view
+1. My Prospecting Dashboard Reports,report,All Internal Users,organization,view
+1. My Prospecting Dashboard Reports,report,Business Development,group,view
+Sample Reports,report,System Administrators,group,view
+User Reports,report,System Administrators,group,edit
+Marketing Reports,report,Dana Adams,user,view
+Marketing Reports,report,Kate Reagan,user,view
+Marketing Reports,report,Lexi Leonie,user,view
+Marketing Reports,report,Marc Daigle,user,view
+Marketing Reports,report,Ross Peets,user,view
+Marketing Reports,report,Wendy Holder,user,view
+Marketing Reports,report,System Administrators,group,view
+Advisor Reports,report,Sanket Vaidya,user,manage
+Banking Reports,report,Sanket Vaidya,user,manage
+My Top Referrers,report,Sanket Vaidya,user,manage
+Referral Performance,report,Sanket Vaidya,user,manage
+Public Dashboards,dashboard,Sanket Vaidya,user,manage
+Referral Dashboards,dashboard,Sanket Vaidya,user,manage
+RM Dashboard Reports,report,All Internal Users,organization,view
+RM Dashboard Reports,report,Salesforce Support,user,manage

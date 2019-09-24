@@ -1,4 +1,9 @@
+- Working with new engagements to help scope, identify risk, use cases and Level of Effort estimates. 
+- Lead Customer design sessions relating to key architectural issues. 
+- Mentor junior developers on teams to ensure proper development methods and standards are followed. 
+- Develop prototype solutions as required.
 
+---------------------------------------------------
 - Led the effort of nCino Implementation
    by working with nCino staff and a consulting firm's contractors.
 
