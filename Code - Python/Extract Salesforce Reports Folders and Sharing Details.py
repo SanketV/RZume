@@ -20,6 +20,7 @@ class Folder:
     name = ''
     type = ''
     url = ''
+    folderSharesUrl = ''
     shares = []
 
 class Shares:
@@ -77,9 +78,9 @@ for f in folders:
     fld.name = f['name']
     fld.type = f['type']
     fld.url = f['url']
-            
     
     folderSharesUrl = sf_api_call(f['url'])['sharesUrl']
+    fld.folderSharesUrl = folderSharesUrl
     
     folderShares = sf_api_call(folderSharesUrl)["shares"]
 
@@ -101,14 +102,22 @@ for f in folders:
     
    
 def make_csv(foldersList):
-    with open('SF Folder Lists and Shares.csv', 'w', newline = '') as csvfile:
+    with open('data\SF Folder Lists and Shares.csv', 'w', newline = '') as csvfile:
         writer = csv.writer(csvfile, delimiter=",")
-        writer.writerow(['FolderName','FolderType','SharedWith','ShareType','AccessType'])
+        writer.writerow(['FolderName',
+                         'FolderType',
+                         'Url',
+                         'FolderSharesUrl',
+                         'SharedWith',
+                         'ShareType',
+                         'AccessType'])
         
         for fld in foldersList:
             for fldShare in fld.shares:
                 writer.writerow([fld.label, 
                                  fld.type,
+                                 fld.url,
+                                 fld.folderSharesUrl,
                                  fldShare.sharedWithLabel,
                                  fldShare.shareType,
                                  fldShare.accessType])
