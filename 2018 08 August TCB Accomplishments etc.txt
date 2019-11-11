@@ -7,6 +7,8 @@
 - Led the effort of nCino Implementation
    by working with nCino staff and a consulting firm's contractors.
 
+- Wrote Python code to update new roles in 300 different folders using REST API.
+
 - nCino config data load
 	- Wrote data loader scripts to automate loading of 40 tables with config data.
 	- Before, a proprietary system was used which was manual which used to take 4 hours.
@@ -17,12 +19,12 @@
 - Established development process and code repositories by introducing AutoRabit
 
 SERVICES PROVIDED:
-• Data Migration & Complex Integrations
-• End User Training
-• Salesforce Value Assurance / Health Checks
-• Salesforce Implementation Progam Oversight
-• Technology Roadmapping / System Design
-• Managed Services / Ongoing Innovation
+â€¢ Data Migration & Complex Integrations
+â€¢ End User Training
+â€¢ Salesforce Value Assurance / Health Checks
+â€¢ Salesforce Implementation Progam Oversight
+â€¢ Technology Roadmapping / System Design
+â€¢ Managed Services / Ongoing Innovation
  
 Lightning conversion/ JavaScript buttons to Lightning Components
 
@@ -46,13 +48,13 @@ Lightning conversion/ JavaScript buttons to Lightning Components
 	Marketing Cloud
 	
 -----------------------------------------------------
-• Heroku app
+â€¢ Heroku app
 		- an app to copy data into sandboxes
 		- an app to log events into Apache Kafka
 
-• Web To Lead - AWS Servers to feed data into Slack.	
+â€¢ Web To Lead - AWS Servers to feed data into Slack.	
 
-• Other Heroku Use Cases
+â€¢ Other Heroku Use Cases
 https://trailhead.salesforce.com/content/learn/modules/salesforce_heroku_integration/getting_started_with_integration
 
 Integration Through Data Replication
@@ -67,11 +69,11 @@ Integration Through External Processes
 As an example, let's say your real estate company uploads photos for each house it lists for sale. These photos are huge, so you need a way to resize them to reduce loading times and storage costs. You can easily offload this job to an external process on Heroku. Each time a photo is uploaded to Salesforce, it is sent to an app on Heroku for processing, and the resized image is saved back into Salesforce. The app on Heroku that handles the external process could be responsible only for that one piece of the system. In that case, the app is likely considered a microservice that can be deployed separately without any other system dependencies.
 
 ----------------------------
-• Technical Architect 
+â€¢ Technical Architect 
 
-• Technical Program Manager
+â€¢ Technical Program Manager
 
-• Application Engineering Manager
+â€¢ Application Engineering Manager
 	https://careers.google.com/jobs/results/101101257189401286-application-engineering-manager-salesforce/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&q=salesforce&sort_by=relevance
 	As an Application Engineering Manager, you will organize and manage our Corporate Engineering SFDC technology stack. You will be responsible for the technical architecture, feature roadmap, best practices, and product innovation for the Center of Excellence (CoE). You will develop guidelines and best practices for teams to follow and deploy, assess technical fit of Salesforce as a solution for various use cases, and consult with teams with large implementations on leveraging Salesforce native capabilities and minimize custom code. You will also define platform wide architectural choices laying the common infrastructure for business teams to build their Salesforce solutions, including integration frameworks, data architecture, and security model.
 
@@ -83,9 +85,9 @@ Work with Corporate Engineering stakeholders and SFDC users within the company t
 Develop integration strategy for SFDC integration with other third-party and home-grown services and define overall architectural guidelines/standards for SFDC platform.
 
 
-• Technical Architect
+â€¢ Technical Architect
 
-• CRM Technical Architect
+â€¢ CRM Technical Architect
 
 As a YouTube Customer Relationship Management (CRM) Tech Lead, you will drive the development of Salesforce (SFDC) platform used by YouTube operations teams, who are tasked with the objective of achieving greater creator happiness and success.
 
@@ -100,7 +102,7 @@ You have excellent communication skills (written and oral) with demonstrated int
 	Collaborate with internal teams to improve Salesforce integrations with internal systems.
 
 
-• Salesforce Project Manager  (Perficient)
+â€¢ Salesforce Project Manager  (Perficient)
 	https://careers-perficient.icims.com/jobs/7528/salesforce-project-manager/job?hub=7&mobile=false&width=1071&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300
 	role is intended to manage and adapt continuously to project goals. This highly collaborative role will need to work closely with all departments, including account, creative and technology teams, in order to deliver quality solutions to our customers. 
 	 
@@ -128,10 +130,10 @@ You have excellent communication skills (written and oral) with demonstrated int
 Google Tips
 
 Focus on your resume
-This is the first piece of information we’ll see about you, so highlight your achievements. Here’s how to frame them:
+This is the first piece of information weâ€™ll see about you, so highlight your achievements. Hereâ€™s how to frame them:
 
 	Align your skills and experience with the job description.
-	Be specific about projects you’ve worked on or managed. What was the outcome? How did you measure success?
+	Be specific about projects youâ€™ve worked on or managed. What was the outcome? How did you measure success?
 	If you've had a leadership role, tell us about it. How big was the team? What was the scope of your work?
 
 
