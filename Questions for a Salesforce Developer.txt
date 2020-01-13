@@ -24,11 +24,11 @@
 	- Many to many (Junction object)
 
 - What are Governor Limits?
-	Total number of records retrieved by a SOQL query � 50,000
-	Total number of SOQL queries issued � 100 (Synchronous) 200 (Asynchronous)
-	Total number of DML statements issued � 150
-	Total number of callouts (HTTP requests or Web services calls) in a transaction � 100
-	Maximum CPU time on the Salesforce servers � 10,000ms (Synchronous) 60,000ms (Asynchronous)
+	Total number of records retrieved by a SOQL query – 50,000
+	Total number of SOQL queries issued – 100 (Synchronous) 200 (Asynchronous)
+	Total number of DML statements issued – 150
+	Total number of callouts (HTTP requests or Web services calls) in a transaction – 100
+	Maximum CPU time on the Salesforce servers – 10,000ms (Synchronous) 60,000ms (Asynchronous)
 
 - What do you like about Salesforce and what do you not like?
 
@@ -45,6 +45,17 @@
 	Certain fields can be defined as an external ID on an object. These can be used in order to match up data from external systems with a unique reference ID. For example, if you need to match up data from an external accounting system to the Accounts in Salesforce, you can use an external ID field to reference the Accounting systems unique ID instead of the Salesforce ID.
 
 https://www.salesforceben.com/30-salesforce-developer-interview-questions-answers/
+
+-----------------------------------
+
+For example, you can use custom metadata types for the following.
+
+Mappings—Create associations between different objects, such as a custom metadata type that assigns cities, states, or provinces to particular regions in a country.
+Business rules—Combine configuration records with custom functionality. Use custom metadata types along with some Apex code to route payments to the correct endpoint.
+Master data—Let’s say that your org uses a standard accounting app. Create a custom metadata type that defines custom charges, like duties and VAT rates. If you include this type as part of an extension package, subscriber orgs can reference the master data.
+Whitelists—Manage lists, such as approved donors and pre-approved vendors.
+Secrets—Store information, like API keys, in your protected custom metadata types within a package.
+Custom metadata rows resemble custom object rows in structure. You create, edit, and delete custom metadata rows in Metadata API or in Setup. Because the records are metadata, you can migrate them using packages or Metadata API tools.
 
 
 
