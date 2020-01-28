@@ -1,0 +1,36 @@
+Field service management (FSM) refers to the management of a company's resources employed at or en route to the property of clients, rather than on company property. Examples include locating vehicles, managing worker activity, scheduling and dispatching work, ensuring driver safety, and integrating the management of such activities with inventory, billing, accounting and other back-office systems. FSM most commonly refers to companies who need to manage installation, service or repairs of systems or equipment. It can also refer to software and cloud-based platforms that aid in field service management.
+
+https://en.wikipedia.org/wiki/Field_service_management
+
+Field service management is used to manage resources in several industries.
+
+In telecommunications and cable industry, technicians who install cable or run phone lines into residences or business establishments.
+In healthcare, mobile nurses who provide in-home care for elderly or disabled.
+In gas utilities, engineers who are dispatched to investigate and repair suspected leaks.
+In heavy engineering, mining, industrial and manufacturing, technicians dispatched for preventative maintenance and repair.
+In property maintenance, including landscaping, irrigation, and home and office cleaning.
+In HVAC industry, technicians have the expertise and equipment to investigate units in residential, commercial and industrial environments.
+
+https://help.salesforce.com/articleView?id=fs_overview.htm&type=5
+
+
+Field service management helps organizations manage work tasks
+of any kind that need to be performed on location. Field service is
+a collaboration between numerous parties, including:
+• The customer who makes the service request or product that
+requires support;
+• The agent who receives the service request and creates a work
+order;
+• The dispatcher who ensures that the right work is assigned to
+the right mobile employee based on schedules, expertise, and
+location; and
+• The mobile employee who receives the work order and makes
+the on-site visit to complete the job.
+While field service depends on many different factors, at the end
+of the day, you’re measured on the quality of the individual service
+you provide to each and every customer.
+
+https://a.sfdcstatic.com/content/dam/www/ocms/assets/pdf/service-cloud/connected-field-service-ebook.pdf
+
+IBM Maximo Scheduler
+https://www.ibm.com/developerworks/community/files/form/anonymous/api/library/75dbdf46-1a08-429c-9742-bd340d7d1fd3/document/ddeadfb6-6996-4d97-9268-95b14959de23/media
