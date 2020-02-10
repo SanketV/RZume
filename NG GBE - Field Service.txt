@@ -17,20 +17,27 @@ https://help.salesforce.com/articleView?id=fs_overview.htm&type=5
 Field service management helps organizations manage work tasks
 of any kind that need to be performed on location. Field service is
 a collaboration between numerous parties, including:
-• The customer who makes the service request or product that
-requires support;
-• The agent who receives the service request and creates a work
-order;
-• The dispatcher who ensures that the right work is assigned to
-the right mobile employee based on schedules, expertise, and
-location; and
-• The mobile employee who receives the work order and makes
-the on-site visit to complete the job.
-While field service depends on many different factors, at the end
-of the day, you’re measured on the quality of the individual service
-you provide to each and every customer.
+	• The customer who makes the service request or product that
+	requires support;
+	• The agent who receives the service request and creates a work
+	order;
+	• The dispatcher who ensures that the right work is assigned to
+	the right mobile employee based on schedules, expertise, and
+	location; and
+	• The mobile employee who receives the work order and makes
+	the on-site visit to complete the job.
+
+	While field service depends on many different factors, at the end
+	of the day, you’re measured on the quality of the individual service
+	you provide to each and every customer.
 
 https://a.sfdcstatic.com/content/dam/www/ocms/assets/pdf/service-cloud/connected-field-service-ebook.pdf
 
 IBM Maximo Scheduler
 https://www.ibm.com/developerworks/community/files/form/anonymous/api/library/75dbdf46-1a08-429c-9742-bd340d7d1fd3/document/ddeadfb6-6996-4d97-9268-95b14959de23/media
+
+
+- SF FSL was integrated with IBM Maximo Legacy System
+- Work Orders were not getting synched and creating havoc in their system
+- Performed analysis on hundreds of work orders that were not in sync with legacy systems.
+- Identified the patterns and provided mitigation strategies.
