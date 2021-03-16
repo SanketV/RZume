@@ -1,0 +1,41 @@
+- Worked on several high priority business requirements.
+	Talked to end users to figure out actual business needs and establish technical requirements.
+
+- Duplicate check task for 360K Contacts and 200K Leads
+	Helped identify scenarios, run batch jobs and eliminate duplicates.
+
+- Helped establish release process
+
+- Sometimes code coverage is different between test orgs and production.
+	Rectified issues.
+
+- Helped create seed data for testing.
+
+- Apex limit exception - Heap Size exceeded. 
+	Error was occurring in a managed package code. FSC.
+	Was thrown from a flow.
+
+- 
+
+-----------------------------------------------------
+Difficult tasks
+	
+National Grid - January 2020
+	- Outbound JSON requests had incorrect id values.
+		Had to replace with correct values and invoke the service again.
+		Accomplished it with Python.
+	- Worked with several different external teams to resolve integration issues.
+
+Whirlpool
+	- Custom approval process implementation with time-based processes.
+	- Working with client with half-baked requirements and tight delivery deadline.
+	- Answerable to client and delivery team at CapGemini.
+	- Finding out new requirements in the middle of sprints.
+
+Jackson
+	- Report folder structure
+	- There were 350 users already using reports and dashboards.
+	  In order to make reports private, public folder structure needed to be removed,
+		and users needed to be added in particular folders.
+	- Wrote python code to automate adding users into folders through Rest API.
+
