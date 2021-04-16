@@ -39,3 +39,32 @@ Jackson
 		and users needed to be added in particular folders.
 	- Wrote python code to automate adding users into folders through Rest API.
 
+	- Updating folder sharing settings in higher sandboxes and in production.
+
+
+	- Cost Center Tracking
+		Expense should be entered in Salesforce on an event.
+			The total amount will be split among multiple users representing different cost centers.
+			Will be intergrated with Oracle Finance application.
+
+-----------------------------------------------------------
+Failure at Jackson - April 2021.
+	- Release lead for a major insurance client with more than 600 users.
+	  More than 25 team members from two different teams.
+	  It was a first combined release so we were struggling with a lot of things to get right.
+	  I had a story to make folders private. Updated 20 something permissions to remove it.
+	  However, I promoted the changes from my personal to higher environments.
+	  Everything was tested and QA passed.
+	  But, after prod deployment, there were several inquiries about permission sets.
+	  We had to fix them manually.
+
+  	  Permission Sets are sensitive.
+
+
+	- There was a story to make folders private by one group. There were several groups in the company.
+	  Worked with their two different analysts and QA team.
+	  Demoed it in a demo meeting attended by 50 different people but not all the users.
+	  It was rolled out the same day.
+	  Next day, flooded with several inquiries about folders and dashboards with reports not being visible.
+
+

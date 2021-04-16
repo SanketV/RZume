@@ -3,6 +3,7 @@
 - Difference between SOQL and SQL
 
 - Difference between Workflow and Process.
+	https://www.salesforceben.com/workflow-rules-vs-process-builder-feat-apex/	
 
 - When to use Process, Workflow and Apex Triggers?  
 
@@ -14,9 +15,9 @@
 
 - Order of Trigger Execution
 
--Can you customise Apex & Visualforce directly in a production org?
+-Can you customize Apex & Visualforce directly in a production org?
 	Apex cannot be customised in a production Org, it must be changed and deployed through a sandbox and meet test coverage. 
-	Visualforce, on the other hand, may be customised directly in production (Although this is not best practice)
+	Visualforce, on the other hand, may be customized directly in production (Although this is not a best practice)
 
 - Relationships in Salesforce
 	- Lookup
@@ -46,15 +47,46 @@
 
 https://www.salesforceben.com/30-salesforce-developer-interview-questions-answers/
 
+- What is the difference between public and global class in Apex?
+	Global class is accessible across the Salesforce instance irrespective of namespaces.
+	Whereas, public classes are accessible only in the corresponding namespaces.
+
+- How to create a batch file in Apex
+
+	Database.Batchable interface contains three methods that must be implemented:
+
+	Start method:
+		global (Database.QueryLocator | Iterable<sObject>) start(Database.BatchableContext bc) {}
+	Execute method:
+		global void execute(Database.BatchableContext BC, list<P>){}
+	Finish method:
+		global void finish(Database.BatchableContext BC){}
+
+
+• Apex Best Practices •
+	1. Bulkify your code
+	2. Avoid SOQL or DML statements inside FOR Loops
+	2. Bulkify Helper methods
+	3. Use Collections and streamline queries
+	4. Avoid hard coding ids. e.g. record types
+	5. One trigger per object
+	6. Query large data set in For Loop
+	7. Use Apex Governor Limit class to handle errors.
+
+
 -----------------------------------
 
 For example, you can use custom metadata types for the following.
 
 Mappings—Create associations between different objects, such as a custom metadata type that assigns cities, states, or provinces to particular regions in a country.
 Business rules—Combine configuration records with custom functionality. Use custom metadata types along with some Apex code to route payments to the correct endpoint.
+
 Master data—Let’s say that your org uses a standard accounting app. Create a custom metadata type that defines custom charges, like duties and VAT rates. If you include this type as part of an extension package, subscriber orgs can reference the master data.
+
 Whitelists—Manage lists, such as approved donors and pre-approved vendors.
+
 Secrets—Store information, like API keys, in your protected custom metadata types within a package.
+
 Custom metadata rows resemble custom object rows in structure. You create, edit, and delete custom metadata rows in Metadata API or in Setup. Because the records are metadata, you can migrate them using packages or Metadata API tools.
 
 
