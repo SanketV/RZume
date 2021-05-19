@@ -26,13 +26,13 @@ National Grid - January 2020
 		Accomplished it with Python.
 	- Worked with several different external teams to resolve integration issues.
 
-Whirlpool
+Whirlpool - Feb 2020 to April 2020
 	- Custom approval process implementation with time-based processes.
 	- Working with client with half-baked requirements and tight delivery deadline.
 	- Answerable to client and delivery team at CapGemini.
 	- Finding out new requirements in the middle of sprints.
 
-Jackson
+Jackson - June 2020
 	- Report folder structure
 	- There were 350 users already using reports and dashboards.
 	  In order to make reports private, public folder structure needed to be removed,
@@ -46,6 +46,12 @@ Jackson
 		Expense should be entered in Salesforce on an event.
 			The total amount will be split among multiple users representing different cost centers.
 			Will be intergrated with Oracle Finance application.
+
+	- Delete an opportunity. 
+		But, preserve all the activities.
+		Re-parent them to the contact the opportunity exists on.
+
+	- Find duplicate contacts based on out of the box features.
 
 -----------------------------------------------------------
 Failure at Jackson - April 2021.
@@ -67,4 +73,7 @@ Failure at Jackson - April 2021.
 	  It was rolled out the same day.
 	  Next day, flooded with several inquiries about folders and dashboards with reports not being visible.
 
+Lessons learned
+	- Write test classes for each permission set.
+	- Run all the test classes.
 

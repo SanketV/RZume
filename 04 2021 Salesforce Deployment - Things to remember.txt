@@ -1,0 +1,17 @@
+Salesforce Deployment
+	
+	- In order to avoid overwrites in common sandboxes,
+		manual changes for 
+
+		Layouts
+		Permission sets
+
+	- Spin off a backup sandbox from production
+
+	- Run all the test cases.
+
+
+-------------------------------------------------------
+sfdx force:mdapi:retrieve --retrievetargetdir "C:\•Jackson\05 14 2021 Deployment Change Log\test_packageFromQA" -u Jackson-QA -k "C:\_Ant_Deployment\Sprint changes\SFCOM-QA2.xml"
+
+sfdx force:mdapi:deploy --zipfile C:\Temp\unpackaged.zip --targetusername QA --checkonly --testlevel RunLocalTests 
