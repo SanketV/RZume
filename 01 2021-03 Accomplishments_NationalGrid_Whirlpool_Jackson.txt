@@ -71,9 +71,19 @@ Failure at Jackson - April 2021.
 	  Worked with their two different analysts and QA team.
 	  Demoed it in a demo meeting attended by 50 different people but not all the users.
 	  It was rolled out the same day.
-	  Next day, flooded with several inquiries about folders and dashboards with reports not being visible.
+	  Next day, flooded with several inquiries about folders and dashboards with reports not being visible.	
 
 Lessons learned
 	- Write test classes for each permission set.
 	- Run all the test classes.
+
+
+	**May 2021**
+	- Working on a Lead Conversion Tasks
+		Turned Lead Setting Enforce Rules setting off
+		Converted leads using a batch job
+		Updated them to certain record types
+		Forgot to turn on the enforce rules setting.
+		There was already an automated Lead Conversion job.
+			That converted 2000 leads which were not supposed to be converted.
 
