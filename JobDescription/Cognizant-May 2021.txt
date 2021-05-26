@@ -1,0 +1,35 @@
+ Our client Cognizant has multiple openings for Senior Salesforce Architects. These are remote roles but would require occasional travel post covid travel restrictions. These are permanent / direct hire opportunities NOT contracts. The base salary range is $160,000 to $210,000, a bonus, and full benefits. Below is the full job description for your review. I look forward to speaking with you.
+ 
+What are the 3-4 non-negotiable requirements of this position?
+• At least 13 years of experience in Information Technology • At least 8 years of professional Salesforce application development/architectural experience utilizing Apex, VisualForce, and SOQL, Web service and data migration • Experience from at least 2 end-to-end Salesforce implementations as a Technical Lead or Technical Architect. • A Salesforce certification in application building or development
+ 
+What are the nice-to-have skills?
+• Any additional certifications in Salesforce is a plus.
+ 
+What is exciting about this opportunity? Please include team and company culture.
+The chance to work in a world-class Salesforce practice area that is both very established and a very respected partner to Salesforce.com. Additionally, to be on the leading edge of new Salesforce technologies implementation with new and existing clients. 
+Responsibilities:
+• Translate business requirements into well architected solutions that best leverage the platform
+• Interacts with the Business, Program, Project, Development, Operations, and Service Integration teams to deliver complete technical solutions to our stakeholders.
+• Design and implement scalable, compatible and high performance solutions
+• Lead technical design sessions and architect/document technical solutions that are aligned with the client’s business objectives
+• Distribute development tasks to team members and mentor developers towards solution development
+• Develop high level estimates by analyzing the business cases and viable design solutions
+• Conduct code reviews for on-going projects to ensure that code quality is at the highest level possible
+
+Basic Qualifications:
+• At least 13 years of experience in Information Technology
+• At least 8 years of professional Salesforce application development/architectural experience utilizing Apex, VisualForce, and SOQL, Web service and data migration
+• Experience from at least 2 end-to-end Salesforce implementations as a Technical Lead or Technical Architect.
+• Prior background and knowledge of Java, .Net, Java Script, HTML, JSON, Angular JS will be essential for success in this Salesforce Architect role
+• Hands on expertise in developing applications on the Force.com Platform
+• Experience in building Web Service enabled applications (SOAP and RESTful)
+• Excellent knowledge of Salesforce APIs and hands-on experience integration with ERP (Oracle and SAP especially)
+• A Salesforce certification in application building or development
+
+Preferred Qualifications:
+• An advanced degree is a plus.
+
+Our strength is built on our ability to work together. Our diverse backgrounds offer different perspectives and new ways of thinking. It encourages lively discussions, inspires thought leadership, and helps us build better solutions for our clients. We want someone who thrives in this setting and is inspired to craft meaningful solutions through true collaboration.
+
+If you’re comfortable with ambiguity, excited by change, and excel through autonomy, we’d love to hear from you.

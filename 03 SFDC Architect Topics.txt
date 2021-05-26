@@ -1,0 +1,26 @@
+Custom Metadata Types Usage
+
+	https://help.salesforce.com/articleView?id=sf.custommetadatatypes_about.htm&type=5	
+	https://developer.salesforce.com/docs/atlas.en-us.apexref.meta/apexref/apex_methods_system_custom_metadata_types.htm
+
+Platform Events
+	https://developer.salesforce.com/docs/atlas.en-us.platform_events.meta/platform_events/platform_events_intro.htm
+
+Authorization Flows
+	https://help.salesforce.com/articleView?id=sf.remoteaccess_oauth_flows.htm&type=5
+
+OAuth Basics
+	
+
+Bulk API limits for humongous data loads.
+	https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_bulkapi.htm
+
+
+Custom Permissions [Different than permission sets]
+	https://help.salesforce.com/articleView?id=sf.custom_perms_overview.htm&type=5
+
+Sharing Rules and Sharing Architecture
+	Limits of Sharing Rules
+	https://salesforceben.com/tips-for-planning-and-creating-salesforce-sharing-rules/#:~:text=You%20can%20define%20up%20to,rules%20to%2050%20per%20object.
+
+
