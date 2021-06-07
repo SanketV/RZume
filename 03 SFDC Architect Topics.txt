@@ -10,7 +10,14 @@ Authorization Flows
 	https://help.salesforce.com/articleView?id=sf.remoteaccess_oauth_flows.htm&type=5
 
 OAuth Basics
-	
+	Types of different flows.
+
+	How SAML works. 
+		Describe Single Sign On.
+	How OAuth works.
+
+	Difference between SAML and OAuth.
+
 
 Bulk API limits for humongous data loads.
 	https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_bulkapi.htm
@@ -23,4 +30,5 @@ Sharing Rules and Sharing Architecture
 	Limits of Sharing Rules
 	https://salesforceben.com/tips-for-planning-and-creating-salesforce-sharing-rules/#:~:text=You%20can%20define%20up%20to,rules%20to%2050%20per%20object.
 
-
+Attachment object
+	https://support.formtitan.com/topics/Salesforce/Attachment_Object
