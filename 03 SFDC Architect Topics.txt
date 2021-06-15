@@ -22,6 +22,19 @@ OAuth Basics
 Bulk API limits for humongous data loads.
 	https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_bulkapi.htm
 
+How to import 150 million records.
+	Data Loader supports upto 5 million.
+	Explore App Exchange to find an appropriate tool.
+		- Pentaho
+		- JitterBit
+		- Dataloader.io
+
+	Bulk API Limit	
+		Maximum number of records uploaded per 24-hour rolling period	150,000,000 
+		(15,000 batches x 10,000 records per batch maximum)
+
+	In Bulk API 2.0, batches are created for you automatically. In Bulk API, you must create the batches yourself.
+	https://developer.salesforce.com/docs/atlas.en-us.api_asynch.meta/api_asynch/bulk_common_diff_two_versions.htm
 
 Custom Permissions [Different than permission sets]
 	https://help.salesforce.com/articleView?id=sf.custom_perms_overview.htm&type=5
@@ -32,3 +45,25 @@ Sharing Rules and Sharing Architecture
 
 Attachment object
 	https://support.formtitan.com/topics/Salesforce/Attachment_Object
+
+Async SOQL Versus SOQL
+	https://developer.salesforce.com/docs/atlas.en-us.bigobjects.meta/bigobjects/async_query_overview.htm
+
+Real-Time Event Monitoring, gain greater insights into:
+	
+	Who viewed what data and when
+	Where data was accessed
+	When a user changes a record using the UI
+	Who is logging in and from where
+	Who in your org is performing actions related to Platform Encryption administration
+	Which admins logged in as another user and the actions the admin took as that user
+	How long it takes a Lightning page to load
+	Threats detected in your org, such as anomalies in how users view or export reports, session hijacking attacks, or credential stuffing attacks
+
+Big Objects
+	There are two types of big objects.
+	Standard big objects—
+Objects defined by Salesforce and included in Salesforce products. FieldHistoryArchive is a standard big object that stores data as part of the Field Audit Trail product. Standard big objects are available out of the box and cannot be customized.
+	Custom big objects—New objects that you create to store information unique to your org. Custom big objects extend the functionality that Lightning Platform provides. For example, if you’re building an app to track product inventory, create a custom big object called HistoricalInventoryLevels to track historical inventory levels for analysis and future optimizations. This implementation guide is for configuring and deploying custom big objects.
+Custom Big Object Use Cases
+
