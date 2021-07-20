@@ -1,0 +1,15 @@
+https://www.linkedin.com/in/venkatesh-yenugula-1589191/
+Salesforce , Data Integration and API management - Technology Leader
+
+• Developed and maintained standards and best practices for all matters related to CRM Architecture and Integrations by collaborating with Salesforce Principal Architects
+• Participate and played critical role in enterprise data blue print , identifying wholesale and consumer applications data that are critical for data lake ( c360, micro services and OData )
+• Played key role in delivering MVP ( Most Viable Product ) for Consumer CRM
+• Collaborated with senior business leaders and evaluated business capabilities and Salesforce Financial Services Cloud (FSC) product and delivered Cost benefits Analysis and Roadmap timeline.
+• Provide guidance and oversight on architecture across enterprise CRM Core Services teams
+• Established a common integrations team to build reusable apps/components for Salesforce and Informatica integrations, including Salesforce AppExchange for Wells Fargo
+• Built Salesforce instances for Wholesale Lines of Business needs, involved in documentation of blueprints.
+• Established Salesforce and Informatica integrations development teams ground up
+• Built new products (IAM , Data Extract )to ensure completeness of Salesforce ecosystem
+• Establish CI chain stack to meet Salesforce platform specific needs
+• Helped establish charter for Wholesale Salesforce COE and is Technology Stakeholder of this COE
+• Design and built Wholesale Contact Master (Master Data Management – MDM), which is system of record for Wholesale customers contacts and relationships

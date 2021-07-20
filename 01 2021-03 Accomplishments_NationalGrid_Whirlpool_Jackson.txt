@@ -25,6 +25,8 @@ National Grid - January 2020
 		Had to replace with correct values and invoke the service again.
 		Accomplished it with Python.
 	- Worked with several different external teams to resolve integration issues.
+	
+	- Recommended best practices for integration
 
 Whirlpool - Feb 2020 to April 2020
 	- Custom approval process implementation with time-based processes.
@@ -52,6 +54,18 @@ Jackson - June 2020
 		Re-parent them to the contact the opportunity exists on.
 
 	- Find duplicate contacts based on out of the box features.
+
+	- Recommended best practice for deployment.	
+
+	- Multiple requirements to host data from legacy systems
+		to show last year of sales records on each contact
+			last 10 years of records based on product
+		These were initially accomplished using batch jobs.
+		However, not scalable model.
+		Recommended using external objects.
+		Built REST services with their Java team
+			and wrote Apex Custom Connectors to make the data available as external objects.
+		OData services were not available which Salesforce uses out of the box for external objects.
 
 -----------------------------------------------------------
 Failure at Jackson - April 2021.
