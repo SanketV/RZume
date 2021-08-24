@@ -60,13 +60,24 @@ Jackson - June 2020
 	- Multiple requirements to host data from legacy systems
 		to show last year of sales records on each contact
 			last 10 years of records based on product
+			last 12 months of Sales data
+			previous business day Sales data
 		These were initially accomplished using batch jobs.
 		However, not scalable model.
 		Recommended using external objects.
 		Built REST services with their Java team
 			and wrote Apex Custom Connectors to make the data available as external objects.
 		OData services were not available which Salesforce uses out of the box for external objects.
+			Used OData connectors with MuleSoft and Informatica tools.
+	- As part of creating digital experience, created a Community portal.
+		Slow in the beginning due to several different related data - 
+			such as policy info, benefit data, billing info, payment history, rider data
 
+		Created a header LWC that fetches data in the background and puts it in platform cache.
+			Improved the user experience significantly.
+
+
+	
 -----------------------------------------------------------
 Failure at Jackson - April 2021.
 	- Release lead for a major insurance client with more than 600 users.
