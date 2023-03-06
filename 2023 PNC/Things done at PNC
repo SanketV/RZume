@@ -1,0 +1,51 @@
+Things done.
+ 
+- Java app deployed in OCP
+               Security
+               Encryption of password file.
+                              No password
+               Coordination
+              
+- Salesforce
+               Code structuring
+               Integration
+                              Error handling
+ 
+- Kafka 
+               Message ordering
+ 
+               Implemented Micro-batching
+ 
+               Dealt with consumer lag issues.
+              
+- Major road block before release
+              
+                              Long text area(131K) characters
+ 
+                              Platform event publishing limits
+ 
+                              Platform event payload size limit
+ 
+                              Apex Heap Size Error [6 MB for synchronous processing,
+                                                                                                           12 MB for Asynchronous processing]
+                                                            Trigger
+                                                            Handler
+                                                            Helper                                  
+ 
+                                                            Due to this error platform events were getting lost.
+                                                            Error cannot be caught. Therefore, no email.                                                   
+ 
+- Refactoring of Case object
+                              More than 700 fields.
+                                             Replication problem
+                                             Unmanageable and not scalable.
+ 
+- OAuth
+              
+                              JWT
+                              User Agent Web Flow
+ 
+- Logging in Java Application
+              
+                              Humio
+                              Set up alerts≈
